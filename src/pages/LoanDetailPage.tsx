@@ -11,6 +11,8 @@ import { useReveal } from '@/hooks/useReveal';
 export default function LoanDetailPage() {
   const { slug } = useParams<{ slug: string }>();
   const loan = slug ? getLoanBySlug(slug) : undefined;
+  console.log("Slug reçu :", slug);
+  console.log("Loan trouvé :", loan);
   const { t } = useTranslation('loans');
   const { t: tCommon } = useTranslation('common');
   const { ref, visible } = useReveal<HTMLDivElement>();
