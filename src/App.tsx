@@ -18,7 +18,7 @@ import DisclaimerPage from '@/pages/DisclaimerPage';
 import NotFoundPage from '@/pages/NotFoundPage';
 import { loanProducts } from '@/data/loans';
 
-function App() {console.log("APP LOADED");
+function App() {
   return (
     <BrowserRouter>
       <div className="flex min-h-screen flex-col">
