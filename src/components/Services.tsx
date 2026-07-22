@@ -18,7 +18,7 @@ export default function Services() {
         </div>
         <div className="mt-16 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {loanProducts.map((loan) => (
-            <Link key={loan.slug} to={`/${loan.slug}`} onClick={() => {console.log("CLICK:", loan.slug);}} className="card-hover group overflow-hidden rounded-2xl border border-navy-100 bg-white shadow-soft">
+            <Link key={loan.slug} to={`/${loan.slug}`} className="card-hover group overflow-hidden rounded-2xl border border-navy-100 bg-white shadow-soft">
               <div className="relative h-48 overflow-hidden">
                 <img src={loan.image} alt={tLoans(`loans.${loan.id}.name`)} className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
                 <div className="absolute inset-0 bg-gradient-to-t from-navy-900/60 to-transparent" />
