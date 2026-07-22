@@ -1,0 +1,17 @@
+{
+  "meta": { "title": "FAQ | Prestivio", "description": "Häufige Fragen zu Krediten und Prestivio-Diensten." },
+  "page": { "eyebrow": "FAQ", "title": "Häufige Fragen", "subtitle": "Antworten auf die häufigsten Fragen." },
+  "categories": { "general": "Allgemein", "documentation": "Dokumentation", "rates": "Zinsen und Raten", "surrogate": "Umschuldung und Konsolidierung" },
+  "items": {
+    "g1": { "question": "Wer ist Prestivio?", "answer": "Ein unabhängiger Kreditmakler, eingetragen im OAM-Register." },
+    "g2": { "question": "Was kostet die Beratung?", "answer": "Die erste Beratung ist kostenlos und unverbindlich." },
+    "g3": { "question": "Wie schnell erhalte ich eine Antwort?", "answer": "Bei Privatkrediten kommt die Antwort in 48 Stunden." },
+    "d1": { "question": "Welche Dokumente werden benötigt?", "answer": "Ausweis, Steuernummer, Einkommensnachweise und IBAN." },
+    "d2": { "question": "Kann ich Dokumente online einreichen?", "answer": "Ja, der Prozess ist vollständig digital." },
+    "r1": { "question": "Ist der Zins fest oder variabel?", "answer": "Bei Privatkrediten immer fest. Bei Hypotheken können Sie wählen." },
+    "r2": { "question": "Kann ich vorzeitig tilgen?", "answer": "Ja, die vorzeitige Tilgung ist immer möglich." },
+    "r3": { "question": "Was ist der TAN?", "answer": "Der Nominale Jahreszins ist der reine Zinssatz auf das Kapital." },
+    "s1": { "question": "Was ist eine Umschuldung?", "answer": "Die Hypothek von einer Bank zu einer anderen ohne Kosten übertragen." },
+    "s2": { "question": "Was ist eine Schuldenkonsolidierung?", "answer": "Alle Kredite in einem zusammenfassen, mit oft niedrigerer Rate." }
+  }
+}

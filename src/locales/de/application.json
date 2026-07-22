@@ -1,0 +1,155 @@
+{
+  "meta": { "title": "Kredit beantragen | Prestivio", "description": "Füllen Sie den Online-Kreditantrag bei Prestivio aus." },
+  "page": { "eyebrow": "Kredit beantragen", "title": "Beantragen Sie Ihren Kredit", "subtitle": "Füllen Sie das Formular in wenigen Minuten aus. Ein Berater wird sich innerhalb von 48 Stunden bei Ihnen melden." },
+  "progress": {
+    "step": "Schritt {{current}} von {{total}}",
+    "personal": "Persönliche Daten",
+    "address": "Wohnsitz",
+    "employment": "Beschäftigung",
+    "loan": "Kredit",
+    "documents": "Dokumente",
+    "consent": "Einwilligung",
+    "summary": "Zusammenfassung"
+  },
+  "personal": {
+    "title": "Ihre persönlichen Daten",
+    "subtitle": "Geben Sie Ihre persönlichen Daten ein.",
+    "firstName": "Vorname",
+    "firstNamePlaceholder": "Max",
+    "lastName": "Nachname",
+    "lastNamePlaceholder": "Mustermann",
+    "dateOfBirth": "Geburtsdatum",
+    "taxCode": "Steuernummer",
+    "taxCodePlaceholder": "RSSMRA80A01H501Z",
+    "email": "E-Mail",
+    "emailPlaceholder": "max.mustermann@email.com",
+    "mobilePhone": "Mobiltelefon",
+    "mobilePhonePlaceholder": "+39 333 1234567"
+  },
+  "address": {
+    "title": "Ihre Adresse",
+    "subtitle": "Wo Sie aktuell wohnen.",
+    "street": "Straße und Hausnummer",
+    "streetPlaceholder": "Musterstraße 12",
+    "city": "Stadt",
+    "cityPlaceholder": "Mailand",
+    "province": "Provinz (2 Buchstaben)",
+    "provincePlaceholder": "MI",
+    "postalCode": "Postleitzahl",
+    "postalCodePlaceholder": "20121",
+    "region": "Region",
+    "regionPlaceholder": "Lombardei"
+  },
+  "employment": {
+    "title": "Ihre Beschäftigungssituation",
+    "subtitle": "Informationen zu Ihrem Einkommen.",
+    "employmentStatus": "Beschäftigungsstatus",
+    "employmentStatusPlaceholder": "Auswählen...",
+    "employer": "Arbeitgeber / Unternehmen",
+    "employerPlaceholder": "Firmenname",
+    "monthlyNetIncome": "Monatliches Nettoeinkommen (€)",
+    "monthlyNetIncomePlaceholder": "2500",
+    "employmentStartDate": "Beginn des Arbeitsverhältnisses",
+    "contractType": "Vertragsart"
+  },
+  "employmentStatuses": {
+    "employed": "Angestellter",
+    "selfEmployed": "Selbstständig",
+    "pensioner": "Rentner",
+    "unemployed": "Arbeitslos"
+  },
+  "contractTypes": {
+    "permanent": "Unbefristet",
+    "fixedTerm": "Befristet",
+    "temporary": "Zeitarbeit",
+    "freelance": "Freiberufler",
+    "pension": "Rente",
+    "other": "Andere"
+  },
+  "loan": {
+    "title": "Kreditdetails",
+    "subtitle": "Wie viel möchten Sie beantragen?",
+    "loanType": "Kreditart",
+    "loanTypePlaceholder": "Auswählen...",
+    "requestedAmount": "Beantragter Betrag (€)",
+    "requestedAmountPlaceholder": "20000",
+    "loanDuration": "Laufzeit (Monate)",
+    "loanDurationPlaceholder": "60",
+    "purpose": "Verwendungszweck",
+    "purposePlaceholder": "Beschreiben Sie, wofür Sie den Kredit benötigen..."
+  },
+  "documents": {
+    "title": "Laden Sie Ihre Dokumente hoch",
+    "subtitle": "Fügen Sie die für die Prüfung erforderlichen Dokumente bei.",
+    "identityCard": "Ausweis",
+    "taxCode": "Steuernummer",
+    "payslips": "Gehaltsabrechnungen",
+    "bankStatement": "Kontoauszug",
+    "otherDocuments": "Weitere Dokumente",
+    "optional": "optional",
+    "dragDrop": "Ziehen oder klicken zum Hochladen",
+    "maxSize": "Maximal 10MB",
+    "acceptedFormats": "PDF, JPG, PNG"
+  },
+  "consent": {
+    "title": "Einwilligung zur Datenverarbeitung",
+    "subtitle": "Lesen und akzeptieren Sie die folgenden Hinweise.",
+    "gdpr": "Ich habe den DSGVO-Hinweis zur Verarbeitung personenbezogener Daten gelesen und akzeptiert.",
+    "privacy": "Ich habe die Datenschutzerklärung gelesen und akzeptiert.",
+    "marketing": "Ich willige in die Verarbeitung meiner Daten zu Marketingzwecken ein.",
+    "marketingOptional": "(optional)",
+    "viewPrivacy": "Datenschutzerklärung lesen"
+  },
+  "summary": {
+    "title": "Zusammenfassung des Antrags",
+    "subtitle": "Überprüfen Sie Ihre Daten vor dem Absenden.",
+    "personalSection": "Persönliche Daten",
+    "addressSection": "Adresse",
+    "employmentSection": "Beschäftigung",
+    "loanSection": "Kredit",
+    "documentsSection": "Dokumente",
+    "consentSection": "Einwilligung",
+    "noDocuments": "Keine Dokumente hochgeladen",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "success": {
+    "title": "Antrag erfolgreich gesendet!",
+    "subtitle": "Vielen Dank für Ihre Anfrage. Einer unserer Berater wird sich innerhalb von 48 Stunden bei Ihnen melden.",
+    "referenceLabel": "Referenznummer",
+    "whatNext": "Wie geht es weiter?",
+    "next1": "Ein Berater wird Ihre Anfrage innerhalb von 48 Stunden prüfen.",
+    "next2": "Wir werden Sie kontaktieren, um Ihnen die besten verfügbaren Lösungen vorzuschlagen.",
+    "next3": "Nach Wahl eines Angebots wird die Liquidität auf Ihr Konto überwiesen.",
+    "backHome": "Zurück zur Startseite",
+    "newApplication": "Neuer Antrag"
+  },
+  "buttons": {
+    "back": "Zurück",
+    "next": "Weiter",
+    "submit": "Antrag senden"
+  },
+  "errors": {
+    "required": "Pflichtfeld",
+    "invalidEmail": "Ungültige E-Mail",
+    "invalidPhone": "Ungültige Telefonnummer",
+    "invalidTaxCode": "Ungültige Steuernummer",
+    "invalidProvince": "2 Buchstaben eingeben",
+    "invalidPostalCode": "Ungültige Postleitzahl (5 Ziffern)",
+    "invalidDate": "Ungültiges Datum",
+    "underage": "Sie müssen mindestens 18 Jahre alt sein",
+    "selectOption": "Wählen Sie eine Option",
+    "invalidIncome": "Geben Sie einen gültigen Betrag ein",
+    "invalidAmount": "Mindestbetrag 1.000 €",
+    "invalidDuration": "Laufzeit zwischen 12 und 120 Monaten",
+    "gdprRequired": "Sie müssen den DSGVO-Hinweis akzeptieren",
+    "privacyRequired": "Sie müssen die Datenschutzerklärung akzeptieren",
+    "fileTooLarge": "Datei zu groß (max. 10MB)",
+    "invalidFileType": "Format nicht unterstützt",
+    "uploadFailed": "Hochladen fehlgeschlagen. Versuchen Sie es erneut.",
+    "submitFailed": "Senden fehlgeschlagen. Bitte später erneut versuchen."
+  },
+  "validation": {
+    "checkFields": "Überprüfen Sie die markierten Felder."
+  }
+}

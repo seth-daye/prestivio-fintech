@@ -1,0 +1,18 @@
+{
+  "meta": { "title": "Kontakt | Prestivio", "description": "Kontaktieren Sie Prestivio für eine kostenlose Kreditberatung." },
+  "page": {
+    "eyebrow": "Kontakt",
+    "title": "Sprechen Sie mit einem Prestivio-Berater",
+    "subtitle": "Wir sind hier, um Ihnen zu helfen, die beste Kreditlösung zu finden.",
+    "info": {
+      "phone": "Telefon",
+      "phoneValue": "+39 02 00 00 00 00",
+      "email": "E-Mail",
+      "emailValue": "info@prestivio.it",
+      "address": "Sitz",
+      "addressValue": "Via Manzoni 12, 20121 Mailand",
+      "hours": "Öffnungszeiten",
+      "hoursValue": "Mo – Fr · 9:00 – 18:00"
+    }
+  }
+}

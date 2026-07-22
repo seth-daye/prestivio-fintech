@@ -1,0 +1,17 @@
+{
+  "meta": { "title": "FAQ | Prestivio", "description": "Frequently asked questions about loans and Prestivio services." },
+  "page": { "eyebrow": "FAQ", "title": "Frequently asked questions", "subtitle": "Answers to the most common questions." },
+  "categories": { "general": "General", "documentation": "Documentation", "rates": "Rates and installments", "surrogate": "Portability and consolidation" },
+  "items": {
+    "g1": { "question": "Who is Prestivio?", "answer": "An independent credit broker, registered in the OAM Register." },
+    "g2": { "question": "How much does the consultation cost?", "answer": "The first consultation is free and without obligation." },
+    "g3": { "question": "How soon do I get an answer?", "answer": "For personal loans, the outcome arrives in 48 hours." },
+    "d1": { "question": "What documents are needed?", "answer": "Identity, tax code, income documentation, and IBAN." },
+    "d2": { "question": "Can I submit documents online?", "answer": "Yes, the process is completely digital." },
+    "r1": { "question": "Is the rate fixed or variable?", "answer": "For personal loans it is always fixed. For mortgages you can choose." },
+    "r2": { "question": "Can I repay early?", "answer": "Yes, early repayment is always possible." },
+    "r3": { "question": "What is the TAN?", "answer": "The Nominal Annual Rate is the pure rate applied to the principal." },
+    "s1": { "question": "What is portability?", "answer": "Transferring the mortgage from one bank to another at no cost." },
+    "s2": { "question": "What is debt consolidation?", "answer": "Merging all loans into one, with an often lower installment." }
+  }
+}

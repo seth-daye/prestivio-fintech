@@ -1,0 +1,58 @@
+{
+  "meta": { "title": "Prestivio — Kreditmakler | Maßgeschneiderte Kredite und Finanzierungen", "description": "Prestivio ist der unabhängige Kreditmakler, der den besten Kredit für Sie findet, indem er über 30 Banken vergleicht." },
+  "hero": {
+    "eyebrow": "Kreditmakler · Italien",
+    "title": "Ihr Kredit, maßgeschneidert",
+    "subtitle": "Wir vergleichen über 30 Banken und Finanzinstitute, um die vorteilhafteste Kreditlösung für Sie zu finden. Völlige Transparenz, keine versteckten Kosten.",
+    "cta": "Kostenlose Beratung anfragen",
+    "secondaryCta": "Berechnen Sie Ihre Rate",
+    "trustBadge": "Im OAM-Register eingetragen · Unabhängige Makler seit 2009"
+  },
+  "stats": {
+    "s1": { "value": "15+", "label": "Jahre Erfahrung" },
+    "s2": { "value": "2,8 Mrd. €", "label": "Vermittelte Finanzierungen" },
+    "s3": { "value": "30+", "label": "Partnerbanken" },
+    "s4": { "value": "48 Std.", "label": "Durchschnittliche Antwortzeit" }
+  },
+  "services": {
+    "eyebrow": "Unsere Kredite",
+    "title": "Kreditlösungen für jedes Bedürfnis",
+    "subtitle": "Vom ersten Eigenheim bis zur Renovierung, vom Privatkredit bis zur Gehaltsabtretung.",
+    "viewDetails": "Mehr erfahren",
+    "fromRate": "ab",
+    "amountLabel": "Betrag",
+    "termLabel": "Laufzeit"
+  },
+  "whyUs": {
+    "eyebrow": "Warum Prestivio",
+    "title": "Der Makler, der für Sie arbeitet, nicht für die Bank",
+    "subtitle": "Wir sind unabhängige Vermittler: Unser einziges Ziel ist es, die besten Konditionen für Sie zu finden.",
+    "features": {
+      "f1": { "title": "Vollständige Unabhängigkeit", "description": "Wir sind an keine Bank gebunden. Wir vergleichen über 30 Institute, um Ihnen nur die vorteilhaftesten Konditionen zu bieten." },
+      "f2": { "title": "Absolute Transparenz", "description": "Keine versteckten Kosten, keine Überraschungen. Wir zeigen Ihnen jeden Betrag, jede Bedingung." },
+      "f3": { "title": "Persönliche Beratung", "description": "Ein erfahrener Berater begleitet Ihren Antrag von Anfang bis Ende." },
+      "f4": { "title": "Schnelle Genehmigung", "description": "Dank unserer Beziehungen zu Banken erhalten wir Antworten innerhalb von 48 Stunden." }
+    }
+  },
+  "process": {
+    "eyebrow": "So funktioniert's",
+    "title": "Vier Schritte zu Ihrer Finanzierung",
+    "subtitle": "Ein einfacher und transparenter Weg, von der ersten Beratung bis zur Auszahlung.",
+    "steps": {
+      "s1": { "title": "Kostenlose Beratung", "description": "Sie erzählen uns von Ihrem Projekt. Wir analysieren Ihre Situation und identifizieren die passendsten Lösungen." },
+      "s2": { "title": "Bankenvergleich", "description": "Wir fragen über 30 Institute ab, um die besten Konditionen zu finden." },
+      "s3": { "title": "Antrag und Dokumente", "description": "Wir helfen Ihnen bei der Dokumentenvorbereitung und verwalten den gesamten Antrag." },
+      "s4": { "title": "Auszahlung", "description": "Nach Genehmigung wird die Liquidität auf Ihr Konto überwiesen." }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Was man über uns sagt",
+    "title": "Das Vertrauen unserer Kunden",
+    "subtitle": "Über 40.000 Familien und Unternehmen haben sich für Prestivio bei ihrer Finanzierung entschieden.",
+    "items": {
+      "t1": { "quote": "Sie haben mir einen Zins gefunden, der fast zwei Punkte unter dem meiner Bank lag.", "author": "Marco Bellini", "role": "Privatkredit", "location": "Mailand" },
+      "t2": { "quote": "Schuldenkonsolidierung, die meine monatliche Rate halbiert hat. Endlich atme ich wieder.", "author": "Giulia Ferraro", "role": "Schuldenkonsolidierung", "location": "Rom" },
+      "t3": { "quote": "Hypothek für mein erstes Eigenheim zu einem Zins, den ich nirgendwo anders fand.", "author": "Andrea Conti", "role": "Baukredit", "location": "Florenz" }
+    }
+  }
+}

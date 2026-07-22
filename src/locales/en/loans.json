@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "title": "Loans | Prestivio Credit Broker",
+    "description": "Discover all available loans: personal loan, salary-backed loan, debt consolidation, home mortgage, and more."
+  },
+  "listHero": {
+    "eyebrow": "Our loans",
+    "title": "Find the right loan for you",
+    "subtitle": "Compare our credit solutions and choose the one best suited to your needs."
+  },
+  "list": {
+    "eyebrow": "All loans",
+    "title": "Our credit solutions",
+    "subtitle": "From your first home to renovation, from personal loans to salary-backed loans.",
+    "viewDetails": "Find out more",
+    "fromRate": "from",
+    "amountLabel": "Amount",
+    "termLabel": "Duration"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "loans": "Loans"
+  },
+  "heroDetail": {
+    "eyebrow": "Loan",
+    "cta": "Apply now",
+    "simulatorLink": "Calculate your installment",
+    "ctaApply": "Apply now"
+  },
+  "sections": {
+    "benefits": {
+      "eyebrow": "Benefits",
+      "title": "Why choose this loan",
+      "subtitle": "The concrete benefits this solution offers you."
+    },
+    "eligibility": {
+      "eyebrow": "Requirements",
+      "title": "Who can apply",
+      "subtitle": "The eligibility criteria."
+    },
+    "documents": {
+      "eyebrow": "Documentation",
+      "title": "Required documents",
+      "subtitle": "What to prepare to start the application."
+    },
+    "process": {
+      "eyebrow": "How to apply",
+      "title": "The application process",
+      "subtitle": "Four simple steps to get your financing."
+    },
+    "related": {
+      "eyebrow": "Related loans",
+      "title": "Other solutions for you",
+      "subtitle": "Discover other credit options that might interest you."
+    },
+    "faq": {
+      "eyebrow": "Frequently asked questions",
+      "title": "The answers you're looking for",
+      "subtitle": "The most common questions."
+    },
+    "contact": {
+      "eyebrow": "Contact us",
+      "title": "Have questions?",
+      "subtitle": "An expert advisor is ready to help you."
+    },
+    "whyPrestivio": {
+      "eyebrow": "Why Prestivio",
+      "title": "Why choose Prestivio",
+      "subtitle": "The broker that works for you, not the bank."
+    },
+    "faiDomanda": {
+      "eyebrow": "Start today",
+      "title": "Ready to apply for your loan?",
+      "subtitle": "Fill out the online application. A consultant will contact you within 48 hours.",
+      "button": "Apply now"
+    }
+  },
+  "processSteps": {
+    "p1": {
+      "title": "Submit your request",
+      "description": "Fill out the online form with your details and the desired loan type."
+    },
+    "p2": {
+      "title": "Free consultation",
+      "description": "One of our advisors will contact you within 48 hours to analyze your situation."
+    },
+    "p3": {
+      "title": "Bank comparison",
+      "description": "We compare over 30 institutions to find you the best conditions."
+    },
+    "p4": {
+      "title": "Disbursement",
+      "description": "Once the application is approved, the funds arrive in your account."
+    }
+  },
+  "loans": {
+    "personal": {
+      "metaTitle": "Personal Loan | Prestivio",
+      "metaDescription": "Personal loan from €1,500 to €75,000 with fixed rate. Apply online with Prestivio.",
+      "name": "Personal Loan",
+      "tagline": "Freedom to choose how to use your funds",
+      "description": "The Prestivio personal loan is the most flexible non-purpose credit solution. You can request from €1,500 to €75,000 and use the amount for any project.",
+      "benefits": {
+        "b1": {
+          "title": "Flexible amount",
+          "description": "From €1,500 to €75,000."
+        },
+        "b2": {
+          "title": "Fixed rate",
+          "description": "Constant installment for the entire duration."
+        },
+        "b3": {
+          "title": "No purpose required",
+          "description": "Use the funds as you prefer."
+        },
+        "b4": {
+          "title": "Free early repayment",
+          "description": "Repay early without penalties."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Age",
+          "description": "18 – 80 years."
+        },
+        "e2": {
+          "title": "Income",
+          "description": "Worker or pensioner with demonstrable income."
+        },
+        "e3": {
+          "title": "Residence",
+          "description": "Resident in Italy."
+        },
+        "e4": {
+          "title": "Credit",
+          "description": "No delays in credit databases."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identity document",
+          "description": "ID card or passport."
+        },
+        "d2": {
+          "title": "Tax code",
+          "description": "Health card."
+        },
+        "d3": {
+          "title": "Payslip / CUD",
+          "description": "Last two payslips or CUD."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Bank details."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "How long does it take?",
+          "answer": "The outcome arrives in 48 hours."
+        },
+        "f2": {
+          "question": "Can I repay early?",
+          "answer": "Yes, without penalties."
+        },
+        "f3": {
+          "question": "Is a guarantor required?",
+          "answer": "It depends on the amount and profile."
+        }
+      }
+    },
+    "cambializzato": {
+      "metaTitle": "Promissory Note Loan | Prestivio",
+      "metaDescription": "Promissory note loan accessible even with credit reports. From €2,500 to €60,000.",
+      "name": "Promissory Note Loan",
+      "tagline": "Accessible even with credit reports",
+      "description": "The promissory note loan is for those who have had credit difficulties. Promissory notes serve as guarantee.",
+      "benefits": {
+        "b1": {
+          "title": "Accessible with delays",
+          "description": "Granted even with credit reports."
+        },
+        "b2": {
+          "title": "Flexible guarantee",
+          "description": "Promissory notes serve as guarantee."
+        },
+        "b3": {
+          "title": "Up to €60,000",
+          "description": "Liquidity even for non-bankable profiles."
+        },
+        "b4": {
+          "title": "Fixed rate",
+          "description": "Constant installment."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Age",
+          "description": "21 – 75 years."
+        },
+        "e2": {
+          "title": "Income",
+          "description": "Demonstrable income."
+        },
+        "e3": {
+          "title": "Residence",
+          "description": "Resident in Italy."
+        },
+        "e4": {
+          "title": "Credit",
+          "description": "Accepted with previous credit reports."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identity document",
+          "description": "ID card or passport."
+        },
+        "d2": {
+          "title": "Tax code",
+          "description": "Health card."
+        },
+        "d3": {
+          "title": "Income",
+          "description": "Payslips or tax return."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Bank details."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Is it granted with credit reports?",
+          "answer": "Yes, banks evaluate case by case."
+        },
+        "f2": {
+          "question": "What are promissory notes?",
+          "answer": "Credit instruments guaranteeing repayment."
+        },
+        "f3": {
+          "question": "Is the rate higher?",
+          "answer": "Slightly higher than a personal loan."
+        }
+      }
+    },
+    "debt-consolidation": {
+      "metaTitle": "Debt Consolidation | Prestivio",
+      "metaDescription": "Debt consolidation: merge your loans into one with a lower installment.",
+      "name": "Debt Consolidation",
+      "tagline": "One single installment, lower",
+      "description": "It merges all your current loans into a single financing with an often lower installment.",
+      "benefits": {
+        "b1": {
+          "title": "Single installment",
+          "description": "One monthly payment."
+        },
+        "b2": {
+          "title": "Lower installment",
+          "description": "Often drops significantly."
+        },
+        "b3": {
+          "title": "Extra liquidity",
+          "description": "You can obtain additional financing."
+        },
+        "b4": {
+          "title": "Lower rate",
+          "description": "Often below average."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Active loans",
+          "description": "At least one active financing."
+        },
+        "e2": {
+          "title": "Age",
+          "description": "18 – 80 years."
+        },
+        "e3": {
+          "title": "Income",
+          "description": "Demonstrable income."
+        },
+        "e4": {
+          "title": "Credit",
+          "description": "No serious delays."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identity document",
+          "description": "ID card."
+        },
+        "d2": {
+          "title": "Loan documentation",
+          "description": "Contracts and payoff statements."
+        },
+        "d3": {
+          "title": "Payslip / CUD",
+          "description": "Last two payslips."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Bank details."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "How much can I save?",
+          "answer": "The installment can drop by 20-40%."
+        },
+        "f2": {
+          "question": "Can I get extra liquidity?",
+          "answer": "Yes, often possible."
+        },
+        "f3": {
+          "question": "Which debts to consolidate?",
+          "answer": "Personal loans, auto loans, credit cards."
+        }
+      }
+    },
+    "salary-assignment": {
+      "metaTitle": "Salary-Backed Loan | Prestivio",
+      "metaDescription": "Salary-backed loan for employees and pensioners. Rates from 3.95%.",
+      "name": "Salary-Backed Loan",
+      "tagline": "The installment deducted from your paycheck",
+      "description": "Guaranteed loan for employees and pensioners. The installment is deducted directly from your paycheck.",
+      "benefits": {
+        "b1": {
+          "title": "Low rates",
+          "description": "Starting from 3.95%."
+        },
+        "b2": {
+          "title": "High approval",
+          "description": "Outcome almost always positive."
+        },
+        "b3": {
+          "title": "Automatic installments",
+          "description": "Deducted directly from your paycheck."
+        },
+        "b4": {
+          "title": "Insurance included",
+          "description": "Life and job coverage included."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Employees",
+          "description": "Permanent employment contract."
+        },
+        "e2": {
+          "title": "Pensioners",
+          "description": "INPS pensioners."
+        },
+        "e3": {
+          "title": "Age",
+          "description": "18 – 85 years."
+        },
+        "e4": {
+          "title": "Seniority",
+          "description": "At least 3 months of tenure."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identity document",
+          "description": "ID card."
+        },
+        "d2": {
+          "title": "Tax code",
+          "description": "Health card."
+        },
+        "d3": {
+          "title": "Payslip / CUD",
+          "description": "Last two payslips."
+        },
+        "d4": {
+          "title": "Salary certificate",
+          "description": "Issued by the employer."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Can the installment exceed one fifth?",
+          "answer": "No, by law maximum 20%."
+        },
+        "f2": {
+          "question": "What if I change jobs?",
+          "answer": "The deduction continues with the new employer."
+        },
+        "f3": {
+          "question": "Can I repay early?",
+          "answer": "Yes, with interest discount."
+        }
+      }
+    },
+    "mortgage": {
+      "metaTitle": "Home Loan | Prestivio",
+      "metaDescription": "Home mortgage with rates from 2.95%. Comparison of over 30 banks.",
+      "name": "Home Loan",
+      "tagline": "The mortgage for your home",
+      "description": "The Prestivio home loan covers purchase, construction, or renovation. We compare mortgages from over 30 banks.",
+      "benefits": {
+        "b1": {
+          "title": "Rates from 2.95%",
+          "description": "Among the most competitive on the market."
+        },
+        "b2": {
+          "title": "Duration up to 30 years",
+          "description": "Long repayment plan."
+        },
+        "b3": {
+          "title": "LTV up to 80%",
+          "description": "Financing up to 80% of the value."
+        },
+        "b4": {
+          "title": "Free portability",
+          "description": "Transfer your mortgage at no cost."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Age",
+          "description": "18 – 75 years at maturity."
+        },
+        "e2": {
+          "title": "Income",
+          "description": "Installment/income maximum 35%."
+        },
+        "e3": {
+          "title": "Property",
+          "description": "Habitable and with consistent value."
+        },
+        "e4": {
+          "title": "Credit",
+          "description": "No delays in credit databases."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "ID and tax code",
+          "description": "Of both applicants."
+        },
+        "d2": {
+          "title": "Income",
+          "description": "Payslips or 2-year financials."
+        },
+        "d3": {
+          "title": "Property",
+          "description": "Preliminary agreement, floor plan, deed."
+        },
+        "d4": {
+          "title": "Financial",
+          "description": "Bank statements last 6 months."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Fixed or variable?",
+          "answer": "The advisor helps you choose."
+        },
+        "f2": {
+          "question": "How long does it take?",
+          "answer": "30-60 days from application."
+        },
+        "f3": {
+          "question": "Can I port my mortgage?",
+          "answer": "Yes, portability is free by law."
+        }
+      }
+    },
+    "auto": {
+      "metaTitle": "Auto Loan | Prestivio",
+      "metaDescription": "Finance your new or used car. Fixed rate, outcome in 48 hours.",
+      "name": "Auto Loan",
+      "tagline": "Finance your new car",
+      "description": "The Prestivio auto loan finances new or used vehicles. Digital application, outcome in 48 hours.",
+      "benefits": {
+        "b1": {
+          "title": "New or used car",
+          "description": "Up to 84 months duration."
+        },
+        "b2": {
+          "title": "Fixed rate",
+          "description": "Constant installment."
+        },
+        "b3": {
+          "title": "Outcome in 48 hours",
+          "description": "Digital and fast application."
+        },
+        "b4": {
+          "title": "Vehicle is yours immediately",
+          "description": "No lien on the vehicle."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Age",
+          "description": "18 – 80 years."
+        },
+        "e2": {
+          "title": "Income",
+          "description": "Demonstrable income."
+        },
+        "e3": {
+          "title": "Residence",
+          "description": "Resident in Italy."
+        },
+        "e4": {
+          "title": "Credit",
+          "description": "No delays in credit databases."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identity document",
+          "description": "ID card."
+        },
+        "d2": {
+          "title": "Tax code",
+          "description": "Health card."
+        },
+        "d3": {
+          "title": "Payslip / CUD",
+          "description": "Last two payslips."
+        },
+        "d4": {
+          "title": "Vehicle quote",
+          "description": "Proforma or listing."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Is a down payment required?",
+          "answer": "Not necessarily."
+        },
+        "f2": {
+          "question": "Can I finance a used car?",
+          "answer": "Yes, of any age."
+        },
+        "f3": {
+          "question": "Incentives for electric cars?",
+          "answer": "Yes, dedicated conditions."
+        }
+      }
+    },
+    "business": {
+      "metaTitle": "Business Loan | Prestivio",
+      "metaDescription": "Business loan for SMEs and professionals. Up to €250,000.",
+      "name": "Business Loan",
+      "tagline": "Finance your business",
+      "description": "The Prestivio business loan finances investments, working capital, and growth for SMEs and professionals. Up to €250,000.",
+      "benefits": {
+        "b1": {
+          "title": "Up to €250,000",
+          "description": "For investments or working capital."
+        },
+        "b2": {
+          "title": "Real evaluation",
+          "description": "We analyze repayment capacity."
+        },
+        "b3": {
+          "title": "Fixed rate",
+          "description": "Constant installment."
+        },
+        "b4": {
+          "title": "Digital application",
+          "description": "Online documentation."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "VAT number",
+          "description": "Active for at least 12 months."
+        },
+        "e2": {
+          "title": "Sector",
+          "description": "Professionals, artisans, SMEs."
+        },
+        "e3": {
+          "title": "Income",
+          "description": "Demonstrable through financials."
+        },
+        "e4": {
+          "title": "Credit",
+          "description": "No serious delays."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identity document",
+          "description": "ID card."
+        },
+        "d2": {
+          "title": "Tax code and VAT number",
+          "description": "Health card and certificate."
+        },
+        "d3": {
+          "title": "Tax return",
+          "description": "Latest return and financials."
+        },
+        "d4": {
+          "title": "Bank statement",
+          "description": "Business account last 6 months."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Is a guarantee required?",
+          "answer": "It depends on amount and seniority."
+        },
+        "f2": {
+          "question": "For equipment?",
+          "answer": "Yes, it can finance investments."
+        },
+        "f3": {
+          "question": "Maximum duration?",
+          "answer": "Up to 120 months."
+        }
+      }
+    },
+    "vat-number": {
+      "metaTitle": "VAT Number Loan | Prestivio",
+      "metaDescription": "Loan for professionals and VAT-registered businesses. Up to €100,000.",
+      "name": "VAT Number Loan",
+      "tagline": "Liquidity for professionals",
+      "description": "Loan for professionals and small businesses. Up to €100,000, fixed rate.",
+      "benefits": {
+        "b1": {
+          "title": "Up to €100,000",
+          "description": "For investments or working capital."
+        },
+        "b2": {
+          "title": "Real evaluation",
+          "description": "We analyze repayment capacity."
+        },
+        "b3": {
+          "title": "Fixed rate",
+          "description": "Constant installment."
+        },
+        "b4": {
+          "title": "Digital application",
+          "description": "Online documentation."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "VAT number",
+          "description": "Active for at least 12 months."
+        },
+        "e2": {
+          "title": "Sector",
+          "description": "Professionals, artisans, SMEs."
+        },
+        "e3": {
+          "title": "Income",
+          "description": "Demonstrable through financials."
+        },
+        "e4": {
+          "title": "Credit",
+          "description": "No serious delays."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identity document",
+          "description": "ID card."
+        },
+        "d2": {
+          "title": "Tax code and VAT number",
+          "description": "Health card and certificate."
+        },
+        "d3": {
+          "title": "Tax return",
+          "description": "Latest return and financials."
+        },
+        "d4": {
+          "title": "Bank statement",
+          "description": "Business account last 6 months."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Is a guarantee required?",
+          "answer": "It depends on amount and seniority."
+        },
+        "f2": {
+          "question": "For equipment?",
+          "answer": "Yes, it can finance investments."
+        },
+        "f3": {
+          "question": "Maximum duration?",
+          "answer": "Up to 120 months."
+        }
+      }
+    }
+  }
+}

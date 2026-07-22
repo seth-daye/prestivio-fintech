@@ -1,0 +1,155 @@
+{
+  "meta": { "title": "Richiedi Prestito | Prestivio", "description": "Compila la richiesta di prestito online con Prestivio." },
+  "page": { "eyebrow": "Richiedi prestito", "title": "Richiedi il tuo prestito", "subtitle": "Compila il modulo in pochi minuti. Un consulente ti contatterà entro 48 ore." },
+  "progress": {
+    "step": "Passo {{current}} di {{total}}",
+    "personal": "Dati personali",
+    "address": "Residenza",
+    "employment": "Lavoro",
+    "loan": "Prestito",
+    "documents": "Documenti",
+    "consent": "Consenso",
+    "summary": "Riepilogo"
+  },
+  "personal": {
+    "title": "I tuoi dati personali",
+    "subtitle": "Inserisci i tuoi dati anagrafici.",
+    "firstName": "Nome",
+    "firstNamePlaceholder": "Mario",
+    "lastName": "Cognome",
+    "lastNamePlaceholder": "Rossi",
+    "dateOfBirth": "Data di nascita",
+    "taxCode": "Codice fiscale",
+    "taxCodePlaceholder": "RSSMRA80A01H501Z",
+    "email": "Email",
+    "emailPlaceholder": "mario.rossi@email.com",
+    "mobilePhone": "Cellulare",
+    "mobilePhonePlaceholder": "+39 333 1234567"
+  },
+  "address": {
+    "title": "Il tuo indirizzo",
+    "subtitle": "Dove risiedi attualmente.",
+    "street": "Via e numero",
+    "streetPlaceholder": "Via Roma 12",
+    "city": "Città",
+    "cityPlaceholder": "Milano",
+    "province": "Provincia (2 lettere)",
+    "provincePlaceholder": "MI",
+    "postalCode": "CAP",
+    "postalCodePlaceholder": "20121",
+    "region": "Regione",
+    "regionPlaceholder": "Lombardia"
+  },
+  "employment": {
+    "title": "La tua situazione lavorativa",
+    "subtitle": "Informazioni sul tuo reddito.",
+    "employmentStatus": "Stato occupazionale",
+    "employmentStatusPlaceholder": "Seleziona...",
+    "employer": "Datore di lavoro / Azienda",
+    "employerPlaceholder": "Nome azienda",
+    "monthlyNetIncome": "Reddito netto mensile (€)",
+    "monthlyNetIncomePlaceholder": "2500",
+    "employmentStartDate": "Data inizio rapporto",
+    "contractType": "Tipo di contratto"
+  },
+  "employmentStatuses": {
+    "employed": "Dipendente",
+    "selfEmployed": "Autonomo",
+    "pensioner": "Pensionato",
+    "unemployed": "Disoccupato"
+  },
+  "contractTypes": {
+    "permanent": "Tempo indeterminato",
+    "fixedTerm": "Tempo determinato",
+    "temporary": "Interinale",
+    "freelance": "Libero professionista",
+    "pension": "Pensione",
+    "other": "Altro"
+  },
+  "loan": {
+    "title": "Dettagli del prestito",
+    "subtitle": "Quanto vuoi richiedere?",
+    "loanType": "Tipo di prestito",
+    "loanTypePlaceholder": "Seleziona...",
+    "requestedAmount": "Importo richiesto (€)",
+    "requestedAmountPlaceholder": "20000",
+    "loanDuration": "Durata (mesi)",
+    "loanDurationPlaceholder": "60",
+    "purpose": "Scopo del prestito",
+    "purposePlaceholder": "Descrivi a cosa ti serve il prestito..."
+  },
+  "documents": {
+    "title": "Carica i tuoi documenti",
+    "subtitle": "Allega i documenti necessari per l'istruttoria.",
+    "identityCard": "Documento d'identità",
+    "taxCode": "Codice fiscale",
+    "payslips": "Buste paga",
+    "bankStatement": "Estratto conto",
+    "otherDocuments": "Altri documenti",
+    "optional": "opzionale",
+    "dragDrop": "Trascina o clicca per caricare",
+    "maxSize": "Massimo 10MB",
+    "acceptedFormats": "PDF, JPG, PNG"
+  },
+  "consent": {
+    "title": "Consenso al trattamento dei dati",
+    "subtitle": "Leggi e accetta le seguenti informative.",
+    "gdpr": "Ho letto e accetto l'informativa GDPR sul trattamento dei dati personali.",
+    "privacy": "Ho letto e accetto la Privacy Policy.",
+    "marketing": "Acconsento al trattamento dei dati per finalità di marketing.",
+    "marketingOptional": "(opzionale)",
+    "viewPrivacy": "Leggi la Privacy Policy"
+  },
+  "summary": {
+    "title": "Riepilogo della richiesta",
+    "subtitle": "Controlla i tuoi dati prima di inviare.",
+    "personalSection": "Dati personali",
+    "addressSection": "Indirizzo",
+    "employmentSection": "Lavoro",
+    "loanSection": "Prestito",
+    "documentsSection": "Documenti",
+    "consentSection": "Consenso",
+    "noDocuments": "Nessun documento caricato",
+    "yes": "Sì",
+    "no": "No"
+  },
+  "success": {
+    "title": "Richiesta inviata con successo!",
+    "subtitle": "Grazie per la tua richiesta. Un nostro consulente ti contatterà entro 48 ore.",
+    "referenceLabel": "Numero di riferimento",
+    "whatNext": "Cosa succede ora?",
+    "next1": "Un consulente analizzerà la tua richiesta entro 48 ore.",
+    "next2": "Ti contatteremo per proporti le migliori soluzioni disponibili.",
+    "next3": "Una volta scelta l'offerta, la liquidità arriva sul tuo conto.",
+    "backHome": "Torna alla home",
+    "newApplication": "Nuova richiesta"
+  },
+  "buttons": {
+    "back": "Indietro",
+    "next": "Avanti",
+    "submit": "Invia richiesta"
+  },
+  "errors": {
+    "required": "Campo obbligatorio",
+    "invalidEmail": "Email non valida",
+    "invalidPhone": "Numero di telefono non valido",
+    "invalidTaxCode": "Codice fiscale non valido",
+    "invalidProvince": "Inserisci 2 lettere",
+    "invalidPostalCode": "CAP non valido (5 cifre)",
+    "invalidDate": "Data non valida",
+    "underage": "Devi avere almeno 18 anni",
+    "selectOption": "Seleziona un'opzione",
+    "invalidIncome": "Inserisci un importo valido",
+    "invalidAmount": "Importo minimo €1.000",
+    "invalidDuration": "Durata tra 12 e 120 mesi",
+    "gdprRequired": "Devi accettare l'informativa GDPR",
+    "privacyRequired": "Devi accettare la Privacy Policy",
+    "fileTooLarge": "File troppo grande (max 10MB)",
+    "invalidFileType": "Formato non supportato",
+    "uploadFailed": "Caricamento fallito. Riprova.",
+    "submitFailed": "Invio fallito. Riprova più tardi."
+  },
+  "validation": {
+    "checkFields": "Controlla i campi evidenziati."
+  }
+}

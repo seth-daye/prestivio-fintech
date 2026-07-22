@@ -1,0 +1,28 @@
+{
+  "meta": { "title": "Rate berechnen | Prestivio", "description": "Simulieren Sie Ihren Kredit und berechnen Sie die monatliche Rate mit dem Prestivio-Simulator." },
+  "hero": { "eyebrow": "Simulator", "title": "Berechnen Sie Ihre Rate", "subtitle": "Simulieren Sie Ihren Kredit mit einem festen Jahreszins von 4%. Es ist eine Richtwert-Schätzung." },
+  "controls": {
+    "amountLabel": "Kreditbetrag",
+    "amountValue": "€{{amount}}",
+    "amountMin": "1.000 €",
+    "amountMax": "100.000 €",
+    "durationLabel": "Laufzeit",
+    "durationValue": "{{months}} Monate",
+    "durationMin": "12 Monate",
+    "durationMax": "120 Monate"
+  },
+  "rate": { "label": "Zins", "value": "4,00%", "description": "Fester Jahreszins für die gesamte Kreditlaufzeit." },
+  "results": {
+    "monthlyPayment": { "label": "Monatliche Rate", "subtitle": "Jeden Monat zu zahlender Betrag" },
+    "totalRepayment": { "label": "Gesamtrückzahlung", "subtitle": "Summe aller Raten" },
+    "totalInterest": { "label": "Gesamtzinsen", "subtitle": "Kosten der Finanzierung" },
+    "annualRate": { "label": "effektiver Jahreszins", "subtitle": "Jahreszins effektiv" }
+  },
+  "cta": {
+    "title": "Möchten Sie diesen Kredit beantragen?",
+    "subtitle": "Füllen Sie das Formular aus und ein Berater wird sich innerhalb von 48 Stunden mit einem personalisierten Angebot bei Ihnen melden.",
+    "button": "Diesen Kredit beantragen",
+    "disclaimer": "Die Simulation ist rein indikativ und stellt kein Kreditangebot dar."
+  },
+  "form": { "prefilledNote": "Daten aus der Simulation", "amountLabel": "Betrag", "durationLabel": "Laufzeit" }
+}

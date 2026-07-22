@@ -1,0 +1,28 @@
+{
+  "meta": { "title": "Calculez la mensualité | Prestivio", "description": "Simulez votre prêt et calculez la mensualité avec le simulateur Prestivio." },
+  "hero": { "eyebrow": "Simulateur", "title": "Calculez votre mensualité", "subtitle": "Simulez votre prêt avec un taux annuel fixe de 4 %. Il s'agit d'une estimation indicative." },
+  "controls": {
+    "amountLabel": "Montant du prêt",
+    "amountValue": "€{{amount}}",
+    "amountMin": "1 000 €",
+    "amountMax": "100 000 €",
+    "durationLabel": "Durée",
+    "durationValue": "{{months}} mois",
+    "durationMin": "12 mois",
+    "durationMax": "120 mois"
+  },
+  "rate": { "label": "Taux", "value": "4,00 %", "description": "Taux annuel fixe appliqué pendant toute la durée du prêt." },
+  "results": {
+    "monthlyPayment": { "label": "Mensualité", "subtitle": "Montant à payer chaque mois" },
+    "totalRepayment": { "label": "Total à rembourser", "subtitle": "Somme de toutes les mensualités" },
+    "totalInterest": { "label": "Intérêts totaux", "subtitle": "Coût du financement" },
+    "annualRate": { "label": "TAEG", "subtitle": "Taux annuel effectif global" }
+  },
+  "cta": {
+    "title": "Vous souhaitez demander ce prêt ?",
+    "subtitle": "Remplissez le formulaire et un conseiller vous contactera sous 48 heures avec une offre personnalisée.",
+    "button": "Demander ce prêt",
+    "disclaimer": "La simulation est purement indicative et ne constitue pas une offre de crédit."
+  },
+  "form": { "prefilledNote": "Données de la simulation", "amountLabel": "Montant", "durationLabel": "Durée" }
+}

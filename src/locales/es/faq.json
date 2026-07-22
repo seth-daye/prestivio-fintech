@@ -1,0 +1,17 @@
+{
+  "meta": { "title": "FAQ | Prestivio", "description": "Preguntas frecuentes sobre los préstamos y los servicios Prestivio." },
+  "page": { "eyebrow": "FAQ", "title": "Preguntas frecuentes", "subtitle": "Las respuestas a las preguntas más comunes." },
+  "categories": { "general": "General", "documentation": "Documentación", "rates": "Tipos y cuotas", "surrogate": "Sustitución y consolidación" },
+  "items": {
+    "g1": { "question": "¿Quién es Prestivio?", "answer": "Un bróker de crédito independiente, inscrito en el Registro OAM." },
+    "g2": { "question": "¿Cuánto cuesta la consulta?", "answer": "La primera consulta es gratuita y sin compromiso." },
+    "g3": { "question": "¿En cuánto tiempo tengo una respuesta?", "answer": "Para los préstamos personales, la respuesta llega en 48 horas." },
+    "d1": { "question": "¿Qué documentos hacen falta?", "answer": "Identidad, código fiscal, documentación de ingresos e IBAN." },
+    "d2": { "question": "¿Puedo enviar los documentos online?", "answer": "Sí, el trámite es completamente digital." },
+    "r1": { "question": "¿El tipo es fijo o variable?", "answer": "Para los préstamos personales siempre es fijo. Para las hipotecas puedes elegir." },
+    "r2": { "question": "¿Puedo cancelar antes?", "answer": "Sí, la cancelación anticipada siempre es posible." },
+    "r3": { "question": "¿Qué es el TAN?", "answer": "El Tasa Anual Nominal es el tipo puro aplicado al capital." },
+    "s1": { "question": "¿Qué es la sustitución de hipoteca?", "answer": "Transferir la hipoteca de un banco a otro sin costes." },
+    "s2": { "question": "¿Qué es la consolidación de deudas?", "answer": "Unir todos los préstamos en uno solo, con una cuota a menudo más baja." }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meta": { "title": "FAQ | Prestivio", "description": "Domande frequenti sui prestiti e i servizi Prestivio." },
+  "page": { "eyebrow": "FAQ", "title": "Domande frequenti", "subtitle": "Le risposte ai quesiti più comuni." },
+  "categories": { "general": "Generale", "documentation": "Documentazione", "rates": "Tassi e rate", "surrogate": "Surroga e consolidamento" },
+  "items": {
+    "g1": { "question": "Chi è Prestivio?", "answer": "Un broker di credito indipendente, iscritto all'Albo OAM." },
+    "g2": { "question": "Quanto costa la consulenza?", "answer": "La prima consulenza è gratuita e senza impegno." },
+    "g3": { "question": "In quanto tempo ho una risposta?", "answer": "Per i prestiti personali l'esito arriva in 48 ore." },
+    "d1": { "question": "Quali documenti servono?", "answer": "Identità, codice fiscale, documentazione reddito e IBAN." },
+    "d2": { "question": "Posso inviare i documenti online?", "answer": "Sì, la pratica è completamente digitale." },
+    "r1": { "question": "Il tasso è fisso o variabile?", "answer": "Per i prestiti personali è sempre fisso. Per i mutui puoi scegliere." },
+    "r2": { "question": "Posso estinguere prima?", "answer": "Sì, l'estinzione anticipata è sempre possibile." },
+    "r3": { "question": "Cosa è il TAN?", "answer": "Il Tasso Annuo Nominale è il tasso puro applicato al capitale." },
+    "s1": { "question": "Cos'è la surroga?", "answer": "Trasferire il mutuo da una banca a un'altra senza costi." },
+    "s2": { "question": "Cos'è il consolidamento debiti?", "answer": "Unire tutti i prestiti in uno solo, con rata spesso più bassa." }
+  }
+}

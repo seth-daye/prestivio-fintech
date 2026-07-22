@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "title": "Préstamos | Prestivio Bróker de Crédito",
+    "description": "Descubre todos los préstamos disponibles: préstamo personal, cesión del quinto, consolidación de deudas, hipoteca casa y más."
+  },
+  "listHero": {
+    "eyebrow": "Nuestros préstamos",
+    "title": "Encuentra el préstamo adecuado para ti",
+    "subtitle": "Compara nuestras soluciones de crédito y elige la que mejor se adapte a tus necesidades."
+  },
+  "list": {
+    "eyebrow": "Todos los préstamos",
+    "title": "Nuestras soluciones de crédito",
+    "subtitle": "Desde la primera casa hasta la renovación, desde el préstamo personal hasta la cesión del quinto.",
+    "viewDetails": "Saber más",
+    "fromRate": "desde",
+    "amountLabel": "Importe",
+    "termLabel": "Duración"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "loans": "Préstamos"
+  },
+  "heroDetail": {
+    "eyebrow": "Préstamo",
+    "cta": "Solicitar ahora",
+    "simulatorLink": "Calcula tu cuota",
+    "ctaApply": "Solicita ahora"
+  },
+  "sections": {
+    "benefits": {
+      "eyebrow": "Ventajas",
+      "title": "Por qué elegir este préstamo",
+      "subtitle": "Los beneficios concretos que te ofrece esta solución."
+    },
+    "eligibility": {
+      "eyebrow": "Requisitos",
+      "title": "Quién puede solicitarlo",
+      "subtitle": "Los criterios de elegibilidad."
+    },
+    "documents": {
+      "eyebrow": "Documentación",
+      "title": "Documentos necesarios",
+      "subtitle": "Qué preparar para iniciar el expediente."
+    },
+    "process": {
+      "eyebrow": "Cómo solicitarlo",
+      "title": "El proceso de solicitud",
+      "subtitle": "Cuatro pasos sencillos para obtener tu financiación."
+    },
+    "related": {
+      "eyebrow": "Préstamos relacionados",
+      "title": "Otras soluciones para ti",
+      "subtitle": "Descubre otras opciones de crédito que pueden interesarte."
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Las respuestas que buscas",
+      "subtitle": "Las preguntas más comunes."
+    },
+    "contact": {
+      "eyebrow": "Contáctanos",
+      "title": "¿Tienes preguntas?",
+      "subtitle": "Un asesor experto está listo para ayudarte."
+    },
+    "whyPrestivio": {
+      "eyebrow": "Por qué Prestivio",
+      "title": "Por qué elegir Prestivio",
+      "subtitle": "El bróker que trabaja para ti, no para el banco."
+    },
+    "faiDomanda": {
+      "eyebrow": "Empieza hoy",
+      "title": "¿Listo para solicitar tu préstamo?",
+      "subtitle": "Completa la solicitud online. Un asesor te contactará en 48 horas.",
+      "button": "Solicita ahora"
+    }
+  },
+  "processSteps": {
+    "p1": {
+      "title": "Envía tu solicitud",
+      "description": "Rellena el formulario online con tus datos y el tipo de préstamo deseado."
+    },
+    "p2": {
+      "title": "Consulta gratuita",
+      "description": "Uno de nuestros asesores te contactará en 48 horas para analizar tu situación."
+    },
+    "p3": {
+      "title": "Comparación de bancos",
+      "description": "Comparamos más de 30 instituciones para encontrarte las mejores condiciones."
+    },
+    "p4": {
+      "title": "Desembolso",
+      "description": "Una vez aprobado el expediente, el dinero llega a tu cuenta."
+    }
+  },
+  "loans": {
+    "personal": {
+      "metaTitle": "Préstamo Personal | Prestivio",
+      "metaDescription": "Préstamo personal de 1.500 € a 75.000 € con tipo fijo. Solicita online con Prestivio.",
+      "name": "Préstamo Personal",
+      "tagline": "Libertad para elegir cómo usar tu liquidez",
+      "description": "El préstamo personal Prestivio es la solución de crédito no finalista más flexible. Puedes solicitar de 1.500 € a 75.000 € y usar el importe para cualquier proyecto.",
+      "benefits": {
+        "b1": {
+          "title": "Importe flexible",
+          "description": "De 1.500 € a 75.000 €."
+        },
+        "b2": {
+          "title": "Tipo fijo",
+          "description": "Cuota constante durante toda la duración."
+        },
+        "b3": {
+          "title": "Sin finalidad",
+          "description": "Usa la liquidez como prefieras."
+        },
+        "b4": {
+          "title": "Cancelación gratuita",
+          "description": "Devuelve antes sin penalizaciones."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Edad",
+          "description": "18 – 80 años."
+        },
+        "e2": {
+          "title": "Ingresos",
+          "description": "Trabajador o pensionista con ingresos demostrables."
+        },
+        "e3": {
+          "title": "Residencia",
+          "description": "Residente en Italia."
+        },
+        "e4": {
+          "title": "Crédito",
+          "description": "Sin retrasos en bases de datos de riesgo."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento de identidad",
+          "description": "DNI o pasaporte."
+        },
+        "d2": {
+          "title": "Código fiscal",
+          "description": "Tarjeta sanitaria."
+        },
+        "d3": {
+          "title": "Nómina / CUD",
+          "description": "Últimas dos nóminas o CUD."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Datos bancarios."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "¿Cuánto tiempo tarda?",
+          "answer": "La respuesta llega en 48 horas."
+        },
+        "f2": {
+          "question": "¿Puedo cancelar antes?",
+          "answer": "Sí, sin penalizaciones."
+        },
+        "f3": {
+          "question": "¿Hace falta un avalista?",
+          "answer": "Depende del importe y del perfil."
+        }
+      }
+    },
+    "cambializzato": {
+      "metaTitle": "Préstamo con Pagarés | Prestivio",
+      "metaDescription": "Préstamo con pagarés accesible incluso con impagos. De 2.500 € a 60.000 €.",
+      "name": "Préstamo con Pagarés",
+      "tagline": "Accesible incluso con impagos",
+      "description": "El préstamo con pagarés es para quienes han tenido dificultades de crédito. Los pagarés sirven como garantía.",
+      "benefits": {
+        "b1": {
+          "title": "Accesible con retrasos",
+          "description": "Concedido incluso con impagos."
+        },
+        "b2": {
+          "title": "Garantía flexible",
+          "description": "Los pagarés sirven como garantía."
+        },
+        "b3": {
+          "title": "Hasta 60.000 €",
+          "description": "Liquidez incluso para perfiles no bancarizables."
+        },
+        "b4": {
+          "title": "Tipo fijo",
+          "description": "Cuota constante."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Edad",
+          "description": "21 – 75 años."
+        },
+        "e2": {
+          "title": "Ingresos",
+          "description": "Ingresos demostrables."
+        },
+        "e3": {
+          "title": "Residencia",
+          "description": "Residente en Italia."
+        },
+        "e4": {
+          "title": "Crédito",
+          "description": "Admitidos con impagos anteriores."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento de identidad",
+          "description": "DNI o pasaporte."
+        },
+        "d2": {
+          "title": "Código fiscal",
+          "description": "Tarjeta sanitaria."
+        },
+        "d3": {
+          "title": "Ingresos",
+          "description": "Nóminas o declaración de ingresos."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Datos bancarios."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "¿Se concede con impagos?",
+          "answer": "Sí, los bancos evalúan caso por caso."
+        },
+        "f2": {
+          "question": "¿Qué son los pagarés?",
+          "answer": "Títulos de crédito que garantizan el reembolso."
+        },
+        "f3": {
+          "question": "¿El tipo es más alto?",
+          "answer": "Ligeramente superior al préstamo personal."
+        }
+      }
+    },
+    "debt-consolidation": {
+      "metaTitle": "Consolidación de Deudas | Prestivio",
+      "metaDescription": "Consolidación de deudas: une tus préstamos en uno solo con una cuota más baja.",
+      "name": "Consolidación de Deudas",
+      "tagline": "Una sola cuota, más baja",
+      "description": "Une todos tus préstamos en curso en una única financiación con una cuota a menudo más baja.",
+      "benefits": {
+        "b1": {
+          "title": "Cuota única",
+          "description": "Un solo pago mensual."
+        },
+        "b2": {
+          "title": "Cuota más baja",
+          "description": "A menudo baja significativamente."
+        },
+        "b3": {
+          "title": "Liquidez extra",
+          "description": "Puedes obtener financiación adicional."
+        },
+        "b4": {
+          "title": "Tipo inferior",
+          "description": "A menudo por debajo de la media."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Préstamos en curso",
+          "description": "Al menos una financiación activa."
+        },
+        "e2": {
+          "title": "Edad",
+          "description": "18 – 80 años."
+        },
+        "e3": {
+          "title": "Ingresos",
+          "description": "Ingresos demostrables."
+        },
+        "e4": {
+          "title": "Crédito",
+          "description": "Sin retrasos graves."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento de identidad",
+          "description": "DNI."
+        },
+        "d2": {
+          "title": "Documentación de préstamos",
+          "description": "Contratos y liquidaciones."
+        },
+        "d3": {
+          "title": "Nómina / CUD",
+          "description": "Últimas dos nóminas."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Datos bancarios."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "¿Cuánto puedo ahorrar?",
+          "answer": "La cuota puede bajar un 20-40%."
+        },
+        "f2": {
+          "question": "¿Puedo obtener liquidez extra?",
+          "answer": "Sí, a menudo es posible."
+        },
+        "f3": {
+          "question": "¿Qué deudas consolidar?",
+          "answer": "Préstamos personales, auto, tarjetas de crédito."
+        }
+      }
+    },
+    "salary-assignment": {
+      "metaTitle": "Cesión del Quinto | Prestivio",
+      "metaDescription": "Cesión del quinto para empleados y pensionistas. Tipos desde 3,95%.",
+      "name": "Cesión del Quinto",
+      "tagline": "La cuota deducida de tu nómina",
+      "description": "Préstamo garantizado para empleados y pensionistas. La cuota se deduce directamente de tu nómina.",
+      "benefits": {
+        "b1": {
+          "title": "Tipos bajos",
+          "description": "A partir del 3,95%."
+        },
+        "b2": {
+          "title": "Alta aprobación",
+          "description": "Respuesta casi siempre positiva."
+        },
+        "b3": {
+          "title": "Cuotas automáticas",
+          "description": "Deducidas directamente de tu nómina."
+        },
+        "b4": {
+          "title": "Seguro incluido",
+          "description": "Cobertura de vida y empleo incluida."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Empleados",
+          "description": "Contrato indefinido."
+        },
+        "e2": {
+          "title": "Pensionistas",
+          "description": "Pensionistas del INPS."
+        },
+        "e3": {
+          "title": "Edad",
+          "description": "18 – 85 años."
+        },
+        "e4": {
+          "title": "Antigüedad",
+          "description": "Al menos 3 meses de antigüedad."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento de identidad",
+          "description": "DNI."
+        },
+        "d2": {
+          "title": "Código fiscal",
+          "description": "Tarjeta sanitaria."
+        },
+        "d3": {
+          "title": "Nómina / CUD",
+          "description": "Últimas dos nóminas."
+        },
+        "d4": {
+          "title": "Certificado salarial",
+          "description": "Emitido por el empleador."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "¿La cuota puede superar un quinto?",
+          "answer": "No, por ley máximo 20%."
+        },
+        "f2": {
+          "question": "¿Si cambio de trabajo?",
+          "answer": "La deducción continúa con el nuevo empleador."
+        },
+        "f3": {
+          "question": "¿Puedo cancelar antes?",
+          "answer": "Sí, con descuento de intereses."
+        }
+      }
+    },
+    "mortgage": {
+      "metaTitle": "Préstamo Hipotecario | Prestivio",
+      "metaDescription": "Hipoteca con tipos desde 2,95%. Comparación de más de 30 bancos.",
+      "name": "Préstamo Hipotecario",
+      "tagline": "La hipoteca para tu casa",
+      "description": "El préstamo hipotecario Prestivio cubre compra, construcción o renovación. Comparamos hipotecas de más de 30 bancos.",
+      "benefits": {
+        "b1": {
+          "title": "Tipos desde 2,95%",
+          "description": "Entre los más competitivos del mercado."
+        },
+        "b2": {
+          "title": "Duración hasta 30 años",
+          "description": "Plan de reembolso largo."
+        },
+        "b3": {
+          "title": "LTV hasta 80%",
+          "description": "Financiación de hasta el 80% del valor."
+        },
+        "b4": {
+          "title": "Sustitución gratuita",
+          "description": "Transfiere tu hipoteca sin costes."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Edad",
+          "description": "18 – 75 años al vencimiento."
+        },
+        "e2": {
+          "title": "Ingresos",
+          "description": "Cuota/ingresos máximo 35%."
+        },
+        "e3": {
+          "title": "Inmueble",
+          "description": "Habitable y con valor coherente."
+        },
+        "e4": {
+          "title": "Crédito",
+          "description": "Sin retrasos en bases de datos de riesgo."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identidad y código fiscal",
+          "description": "De ambos solicitantes."
+        },
+        "d2": {
+          "title": "Ingresos",
+          "description": "Nóminas o balances de 2 años."
+        },
+        "d3": {
+          "title": "Inmueble",
+          "description": "Contrato preliminar, plano, escritura."
+        },
+        "d4": {
+          "title": "Financiero",
+          "description": "Cuentas corrientes últimos 6 meses."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "¿Fijo o variable?",
+          "answer": "El asesor te ayuda a elegir."
+        },
+        "f2": {
+          "question": "¿Cuánto tiempo tarda?",
+          "answer": "30-60 días desde la tramitación."
+        },
+        "f3": {
+          "question": "¿Puedo sustituir mi hipoteca?",
+          "answer": "Sí, la sustitución es gratuita por ley."
+        }
+      }
+    },
+    "auto": {
+      "metaTitle": "Préstamo Auto | Prestivio",
+      "metaDescription": "Financia tu coche nuevo o usado. Tipo fijo, respuesta en 48 horas.",
+      "name": "Préstamo Auto",
+      "tagline": "Financia tu nuevo coche",
+      "description": "El préstamo auto Prestivio financia vehículos nuevos o usados. Trámite digital, respuesta en 48 horas.",
+      "benefits": {
+        "b1": {
+          "title": "Coche nuevo o usado",
+          "description": "Hasta 84 meses de duración."
+        },
+        "b2": {
+          "title": "Tipo fijo",
+          "description": "Cuota constante."
+        },
+        "b3": {
+          "title": "Respuesta en 48 horas",
+          "description": "Trámite digital y rápido."
+        },
+        "b4": {
+          "title": "Vehículo tuyo de inmediato",
+          "description": "Sin gravamen sobre el vehículo."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Edad",
+          "description": "18 – 80 años."
+        },
+        "e2": {
+          "title": "Ingresos",
+          "description": "Ingresos demostrables."
+        },
+        "e3": {
+          "title": "Residencia",
+          "description": "Residente en Italia."
+        },
+        "e4": {
+          "title": "Crédito",
+          "description": "Sin retrasos en bases de datos de riesgo."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento de identidad",
+          "description": "DNI."
+        },
+        "d2": {
+          "title": "Código fiscal",
+          "description": "Tarjeta sanitaria."
+        },
+        "d3": {
+          "title": "Nómina / CUD",
+          "description": "Últimas dos nóminas."
+        },
+        "d4": {
+          "title": "Presupuesto del vehículo",
+          "description": "Proforma o anuncio."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "¿Hace falta una entrada?",
+          "answer": "No necesariamente."
+        },
+        "f2": {
+          "question": "¿Puedo financiar un coche usado?",
+          "answer": "Sí, de cualquier edad."
+        },
+        "f3": {
+          "question": "¿Incentivos para eléctricos?",
+          "answer": "Sí, condiciones dedicadas."
+        }
+      }
+    },
+    "business": {
+      "metaTitle": "Préstamo Empresarial | Prestivio",
+      "metaDescription": "Préstamo empresarial para PYMES y profesionales. Hasta 250.000 €.",
+      "name": "Préstamo Empresarial",
+      "tagline": "Financia tu empresa",
+      "description": "El préstamo empresarial Prestivio financia inversiones, circulante y crecimiento para PYMES y profesionales. Hasta 250.000 €.",
+      "benefits": {
+        "b1": {
+          "title": "Hasta 250.000 €",
+          "description": "Para inversiones o circulante."
+        },
+        "b2": {
+          "title": "Evaluación real",
+          "description": "Analizamos la capacidad de reembolso."
+        },
+        "b3": {
+          "title": "Tipo fijo",
+          "description": "Cuota constante."
+        },
+        "b4": {
+          "title": "Trámite digital",
+          "description": "Documentación online."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Número de IVA",
+          "description": "Activo desde al menos 12 meses."
+        },
+        "e2": {
+          "title": "Sector",
+          "description": "Profesionales, artesanos, PYMES."
+        },
+        "e3": {
+          "title": "Ingresos",
+          "description": "Demostrables mediante balances."
+        },
+        "e4": {
+          "title": "Crédito",
+          "description": "Sin retrasos graves."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento de identidad",
+          "description": "DNI."
+        },
+        "d2": {
+          "title": "Código fiscal y n.º IVA",
+          "description": "Tarjeta sanitaria y certificado."
+        },
+        "d3": {
+          "title": "Declaración de ingresos",
+          "description": "Última declaración y balances."
+        },
+        "d4": {
+          "title": "Extracto de cuenta",
+          "description": "Cuenta empresarial últimos 6 meses."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "¿Hace falta una garantía?",
+          "answer": "Depende del importe y la antigüedad."
+        },
+        "f2": {
+          "question": "¿Para equipos?",
+          "answer": "Sí, puede financiar inversiones."
+        },
+        "f3": {
+          "question": "¿Duración máxima?",
+          "answer": "Hasta 120 meses."
+        }
+      }
+    },
+    "vat-number": {
+      "metaTitle": "Préstamo para Autónomos | Prestivio",
+      "metaDescription": "Préstamo para profesionales y autónomos. Hasta 100.000 €.",
+      "name": "Préstamo para Autónomos",
+      "tagline": "Liquidez para profesionales",
+      "description": "Préstamo para profesionales y pequeñas empresas. Hasta 100.000 €, tipo fijo.",
+      "benefits": {
+        "b1": {
+          "title": "Hasta 100.000 €",
+          "description": "Para inversiones o circulante."
+        },
+        "b2": {
+          "title": "Evaluación real",
+          "description": "Analizamos la capacidad de reembolso."
+        },
+        "b3": {
+          "title": "Tipo fijo",
+          "description": "Cuota constante."
+        },
+        "b4": {
+          "title": "Trámite digital",
+          "description": "Documentación online."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Número de IVA",
+          "description": "Activo desde al menos 12 meses."
+        },
+        "e2": {
+          "title": "Sector",
+          "description": "Profesionales, artesanos, PYMES."
+        },
+        "e3": {
+          "title": "Ingresos",
+          "description": "Demostrables mediante balances."
+        },
+        "e4": {
+          "title": "Crédito",
+          "description": "Sin retrasos graves."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento de identidad",
+          "description": "DNI."
+        },
+        "d2": {
+          "title": "Código fiscal y n.º IVA",
+          "description": "Tarjeta sanitaria y certificado."
+        },
+        "d3": {
+          "title": "Declaración de ingresos",
+          "description": "Última declaración y balances."
+        },
+        "d4": {
+          "title": "Extracto de cuenta",
+          "description": "Cuenta empresarial últimos 6 meses."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "¿Hace falta una garantía?",
+          "answer": "Depende del importe y la antigüedad."
+        },
+        "f2": {
+          "question": "¿Para equipos?",
+          "answer": "Sí, puede financiar inversiones."
+        },
+        "f3": {
+          "question": "¿Duración máxima?",
+          "answer": "Hasta 120 meses."
+        }
+      }
+    }
+  }
+}

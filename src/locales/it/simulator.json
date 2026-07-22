@@ -1,0 +1,28 @@
+{
+  "meta": { "title": "Calcola la rata | Prestivio", "description": "Simula il tuo prestito e calcola la rata mensile con il simulatore Prestivio." },
+  "hero": { "eyebrow": "Simulatore", "title": "Calcola la tua rata", "subtitle": "Simula il tuo prestito con un tasso fisso del 4% annuo. È una stima indicativa." },
+  "controls": {
+    "amountLabel": "Importo del prestito",
+    "amountValue": "€{{amount}}",
+    "amountMin": "€1.000",
+    "amountMax": "€100.000",
+    "durationLabel": "Durata",
+    "durationValue": "{{months}} mesi",
+    "durationMin": "12 mesi",
+    "durationMax": "120 mesi"
+  },
+  "rate": { "label": "Tasso", "value": "4,00%", "description": "Tasso fisso annuo applicato per tutta la durata del prestito." },
+  "results": {
+    "monthlyPayment": { "label": "Rata mensile", "subtitle": "Importo da pagare ogni mese" },
+    "totalRepayment": { "label": "Totale da rimborsare", "subtitle": "Somma di tutte le rate" },
+    "totalInterest": { "label": "Interessi totali", "subtitle": "Costo del finanziamento" },
+    "annualRate": { "label": "TAEG", "subtitle": "Tasso annuo effettivo globale" }
+  },
+  "cta": {
+    "title": "Vuoi richiedere questo prestito?",
+    "subtitle": "Compila il modulo e un consulente ti contatterà entro 48 ore con una proposta personalizzata.",
+    "button": "Richiedi questo prestito",
+    "disclaimer": "La simulazione è puramente indicativa e non costituisce offerta di credito."
+  },
+  "form": { "prefilledNote": "Dati dalla simulazione", "amountLabel": "Importo", "durationLabel": "Durata" }
+}

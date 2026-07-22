@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "title": "Prestiti | Prestivio Broker di Credito",
+    "description": "Scopri tutti i prestiti disponibili: prestito personale, cessione del quinto, consolidamento debiti, mutuo casa e altro."
+  },
+  "listHero": {
+    "eyebrow": "I nostri prestiti",
+    "title": "Trova il prestito giusto per te",
+    "subtitle": "Confronta le nostre soluzioni di credito e scegli quella più adatta alle tue esigenze."
+  },
+  "list": {
+    "eyebrow": "Tutti i prestiti",
+    "title": "Le nostre soluzioni di credito",
+    "subtitle": "Dalla prima casa alla ristrutturazione, dal prestito personale alla cessione del quinto.",
+    "viewDetails": "Scopri di più",
+    "fromRate": "da",
+    "amountLabel": "Importo",
+    "termLabel": "Durata"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "loans": "Prestiti"
+  },
+  "heroDetail": {
+    "eyebrow": "Prestito",
+    "cta": "Richiedi ora",
+    "simulatorLink": "Calcola la tua rata",
+    "ctaApply": "Fai la domanda"
+  },
+  "sections": {
+    "benefits": {
+      "eyebrow": "Vantaggi",
+      "title": "Perché scegliere questo prestito",
+      "subtitle": "I benefici concreti che ti offre questa soluzione."
+    },
+    "eligibility": {
+      "eyebrow": "Requisiti",
+      "title": "Chi può richiederlo",
+      "subtitle": "I criteri di ammissibilità."
+    },
+    "documents": {
+      "eyebrow": "Documentazione",
+      "title": "Documenti necessari",
+      "subtitle": "Cosa preparare per avviare la pratica."
+    },
+    "process": {
+      "eyebrow": "Come richiederlo",
+      "title": "Il processo di richiesta",
+      "subtitle": "Quattro semplici passi per ottenere il tuo finanziamento."
+    },
+    "related": {
+      "eyebrow": "Prestiti correlati",
+      "title": "Altre soluzioni per te",
+      "subtitle": "Scopri altre opzioni di credito che potrebbero interessarti."
+    },
+    "faq": {
+      "eyebrow": "Domande frequenti",
+      "title": "Le risposte che cerchi",
+      "subtitle": "Le domande più comuni."
+    },
+    "contact": {
+      "eyebrow": "Contattaci",
+      "title": "Hai domande?",
+      "subtitle": "Un consulente esperto è pronto ad aiutarti."
+    },
+    "whyPrestivio": {
+      "eyebrow": "Perché Prestivio",
+      "title": "Perché scegliere Prestivio",
+      "subtitle": "Il broker che lavora per te, non per la banca."
+    },
+    "faiDomanda": {
+      "eyebrow": "Inizia oggi",
+      "title": "Pronto a richiedere il tuo prestito?",
+      "subtitle": "Compila la richiesta online. Un consulente ti contatterà entro 48 ore.",
+      "button": "Fai la domanda"
+    }
+  },
+  "processSteps": {
+    "p1": {
+      "title": "Invia la richiesta",
+      "description": "Compila il modulo online con i tuoi dati e il tipo di prestito desiderato."
+    },
+    "p2": {
+      "title": "Consulenza gratuita",
+      "description": "Un nostro consulente ti contatta entro 48 ore per analizzare la tua situazione."
+    },
+    "p3": {
+      "title": "Confronto banche",
+      "description": "Confrontiamo oltre 30 istituti per trovarti le condizioni migliori."
+    },
+    "p4": {
+      "title": "Erogazione",
+      "description": "Una volta approvata la pratica, la liquidità arriva sul tuo conto."
+    }
+  },
+  "loans": {
+    "personal": {
+      "metaTitle": "Prestito Personale | Prestivio",
+      "metaDescription": "Prestito personale da €1.500 a €75.000 con tasso fisso. Richiedi online con Prestivio.",
+      "name": "Prestito Personale",
+      "tagline": "Libertà di scegliere come usare la tua liquidità",
+      "description": "Il prestito personale Prestivio è la soluzione di credito non finalizzato più flessibile. Puoi richiedere da €1.500 a €75.000 e usare l'importo per qualsiasi progetto.",
+      "benefits": {
+        "b1": {
+          "title": "Importo flessibile",
+          "description": "Da €1.500 a €75.000."
+        },
+        "b2": {
+          "title": "Tasso fisso",
+          "description": "Rata costante per tutta la durata."
+        },
+        "b3": {
+          "title": "Nessuna finalizzazione",
+          "description": "Usa la liquidità come preferisci."
+        },
+        "b4": {
+          "title": "Estinzione gratuita",
+          "description": "Rimborsa prima senza penali."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Età",
+          "description": "18 – 80 anni."
+        },
+        "e2": {
+          "title": "Reddito",
+          "description": "Lavoratore o pensionato con reddito dimostrabile."
+        },
+        "e3": {
+          "title": "Residenza",
+          "description": "Residente in Italia."
+        },
+        "e4": {
+          "title": "Creditizio",
+          "description": "Nessun ritardo in centrale rischi."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento d'identità",
+          "description": "Carta d'identità o passaporto."
+        },
+        "d2": {
+          "title": "Codice fiscale",
+          "description": "Tessera sanitaria."
+        },
+        "d3": {
+          "title": "Busta paga / CUD",
+          "description": "Ultime due buste paga o CUD."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Coordinate bancarie."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Quanto tempo serve?",
+          "answer": "L'esito arriva in 48 ore."
+        },
+        "f2": {
+          "question": "Posso estinguere prima?",
+          "answer": "Sì, senza penali."
+        },
+        "f3": {
+          "question": "Serve un garante?",
+          "answer": "Dipende dall'importo e dal profilo."
+        }
+      }
+    },
+    "cambializzato": {
+      "metaTitle": "Prestito Cambializzato | Prestivio",
+      "metaDescription": "Prestito cambializzato accessibile anche con segnalazioni. Da €2.500 a €60.000.",
+      "name": "Prestito Cambializzato",
+      "tagline": "Accessibile anche con segnalazioni",
+      "description": "Il prestito cambializzato è per chi ha avuto difficoltà di credito. Le cambiali fungono da garanzia.",
+      "benefits": {
+        "b1": {
+          "title": "Accessibile con ritardi",
+          "description": "Concesso anche con segnalazioni."
+        },
+        "b2": {
+          "title": "Garanzia flessibile",
+          "description": "Le cambiali fungono da garanzia."
+        },
+        "b3": {
+          "title": "Fino a €60.000",
+          "description": "Liquidità anche per profili non bancabili."
+        },
+        "b4": {
+          "title": "Tasso fisso",
+          "description": "Rata costante."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Età",
+          "description": "21 – 75 anni."
+        },
+        "e2": {
+          "title": "Reddito",
+          "description": "Reddito dimostrabile."
+        },
+        "e3": {
+          "title": "Residenza",
+          "description": "Residente in Italia."
+        },
+        "e4": {
+          "title": "Creditizio",
+          "description": "Ammessi con segnalazioni pregresse."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento d'identità",
+          "description": "Carta d'identità o passaporto."
+        },
+        "d2": {
+          "title": "Codice fiscale",
+          "description": "Tessera sanitaria."
+        },
+        "d3": {
+          "title": "Reddito",
+          "description": "Buste paga o dichiarazione redditi."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Coordinate bancarie."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "È concesso con segnalazioni?",
+          "answer": "Sì, le banche valutano caso per caso."
+        },
+        "f2": {
+          "question": "Cosa sono le cambiali?",
+          "answer": "Titoli di credito a garanzia del rimborso."
+        },
+        "f3": {
+          "question": "Il tasso è più alto?",
+          "answer": "Leggermente superiore al prestito personale."
+        }
+      }
+    },
+    "debt-consolidation": {
+      "metaTitle": "Consolidamento Debiti | Prestivio",
+      "metaDescription": "Consolidamento debiti: unisci i tuoi prestiti in uno solo con rata più bassa.",
+      "name": "Consolidamento Debiti",
+      "tagline": "Una sola rata, più bassa",
+      "description": "Unisce tutti i tuoi prestiti in corso in un unico finanziamento con una rata spesso più bassa.",
+      "benefits": {
+        "b1": {
+          "title": "Rata unica",
+          "description": "Un solo pagamento mensile."
+        },
+        "b2": {
+          "title": "Rata più bassa",
+          "description": "Spesso scende significativamente."
+        },
+        "b3": {
+          "title": "Liquidità extra",
+          "description": "Puoi ottenere finanziamento aggiuntivo."
+        },
+        "b4": {
+          "title": "Tasso inferiore",
+          "description": "Spesso più basso della media."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Prestiti in corso",
+          "description": "Almeno un finanziamento attivo."
+        },
+        "e2": {
+          "title": "Età",
+          "description": "18 – 80 anni."
+        },
+        "e3": {
+          "title": "Reddito",
+          "description": "Reddito dimostrabile."
+        },
+        "e4": {
+          "title": "Creditizio",
+          "description": "Nessun ritardo grave."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento d'identità",
+          "description": "Carta d'identità."
+        },
+        "d2": {
+          "title": "Documentazione prestiti",
+          "description": "Contratti e conteggi estintivi."
+        },
+        "d3": {
+          "title": "Busta paga / CUD",
+          "description": "Ultime due buste paga."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Coordinate bancarie."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Quanto posso risparmiare?",
+          "answer": "La rata può scendere del 20-40%."
+        },
+        "f2": {
+          "question": "Posso avere liquidità extra?",
+          "answer": "Sì, spesso è possibile."
+        },
+        "f3": {
+          "question": "Quali debiti consolidare?",
+          "answer": "Prestiti personali, auto, carte di credito."
+        }
+      }
+    },
+    "salary-assignment": {
+      "metaTitle": "Cessione del Quinto | Prestivio",
+      "metaDescription": "Cessione del quinto per dipendenti e pensionati. Tassi dal 3,95%.",
+      "name": "Cessione del Quinto",
+      "tagline": "La rata trattenuta dallo stipendio",
+      "description": "Prestito garantito per dipendenti e pensionati. La rata è trattenuta direttamente in busta paga.",
+      "benefits": {
+        "b1": {
+          "title": "Tassi bassi",
+          "description": "A partire dal 3,95%."
+        },
+        "b2": {
+          "title": "Approvazione elevata",
+          "description": "Esito quasi sempre positivo."
+        },
+        "b3": {
+          "title": "Rate automatiche",
+          "description": "Trattenuta direttamente in busta paga."
+        },
+        "b4": {
+          "title": "Assicurazione inclusa",
+          "description": "Copertura vita e impiego inclusa."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Dipendenti",
+          "description": "Contratto a tempo indeterminato."
+        },
+        "e2": {
+          "title": "Pensionati",
+          "description": "Pensionati INPS."
+        },
+        "e3": {
+          "title": "Età",
+          "description": "18 – 85 anni."
+        },
+        "e4": {
+          "title": "Antichità",
+          "description": "Almeno 3 mesi di anzianità."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento d'identità",
+          "description": "Carta d'identità."
+        },
+        "d2": {
+          "title": "Codice fiscale",
+          "description": "Tessera sanitaria."
+        },
+        "d3": {
+          "title": "Busta paga / CUD",
+          "description": "Ultime due buste paga."
+        },
+        "d4": {
+          "title": "Certificato stipendio",
+          "description": "Rilasciato dal datore di lavoro."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "La rata può superare un quinto?",
+          "answer": "No, per legge massimo 20%."
+        },
+        "f2": {
+          "question": "Se cambio lavoro?",
+          "answer": "La trattenuta prosegue presso il nuovo datore."
+        },
+        "f3": {
+          "question": "Posso estinguere prima?",
+          "answer": "Sì, con sconto interessi."
+        }
+      }
+    },
+    "mortgage": {
+      "metaTitle": "Prestito Casa | Prestivio",
+      "metaDescription": "Mutuo casa con tassi dal 2,95%. Confronto oltre 30 banche.",
+      "name": "Prestito Casa",
+      "tagline": "Il mutuo per la tua casa",
+      "description": "Il prestito casa Prestivio copre acquisto, costruzione o ristrutturazione. Confrontiamo mutui di oltre 30 banche.",
+      "benefits": {
+        "b1": {
+          "title": "Tassi dal 2,95%",
+          "description": "Tra i più competitivi del mercato."
+        },
+        "b2": {
+          "title": "Durata fino a 30 anni",
+          "description": "Piano di rimborso lungo."
+        },
+        "b3": {
+          "title": "LTV fino all'80%",
+          "description": "Finanziamento fino all'80% del valore."
+        },
+        "b4": {
+          "title": "Surroga gratuita",
+          "description": "Trasferisci il mutuo senza costi."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Età",
+          "description": "18 – 75 anni alla scadenza."
+        },
+        "e2": {
+          "title": "Reddito",
+          "description": "Rata/reddito massimo 35%."
+        },
+        "e3": {
+          "title": "Immobile",
+          "description": "Agibile e con valore coerente."
+        },
+        "e4": {
+          "title": "Creditizio",
+          "description": "Nessun ritardo in centrale rischi."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identità e CF",
+          "description": "Di entrambi i richiedenti."
+        },
+        "d2": {
+          "title": "Reddito",
+          "description": "Buste paga o bilanci 2 anni."
+        },
+        "d3": {
+          "title": "Immobile",
+          "description": "Preliminare, planimetria, atto."
+        },
+        "d4": {
+          "title": "Economica",
+          "description": "Conti correnti ultimi 6 mesi."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Fisso o variabile?",
+          "answer": "Il consulente ti aiuta a scegliere."
+        },
+        "f2": {
+          "question": "Quanto tempo serve?",
+          "answer": "30-60 giorni dall'istruttoria."
+        },
+        "f3": {
+          "question": "Posso surrogare?",
+          "answer": "Sì, la surroga è gratuita per legge."
+        }
+      }
+    },
+    "auto": {
+      "metaTitle": "Prestito Auto | Prestivio",
+      "metaDescription": "Finanzia la tua auto nuova o usata. Tasso fisso, esito in 48 ore.",
+      "name": "Prestito Auto",
+      "tagline": "Finanzia la tua nuova auto",
+      "description": "Il prestito auto Prestivio finanzia veicoli nuovi o usati. Pratica digitale, esito in 48 ore.",
+      "benefits": {
+        "b1": {
+          "title": "Auto nuova o usata",
+          "description": "Fino a 84 mesi di durata."
+        },
+        "b2": {
+          "title": "Tasso fisso",
+          "description": "Rata costante."
+        },
+        "b3": {
+          "title": "Esito in 48 ore",
+          "description": "Pratica digitale e rapida."
+        },
+        "b4": {
+          "title": "Veicolo subito tuo",
+          "description": "Nessun vincolo sul veicolo."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Età",
+          "description": "18 – 80 anni."
+        },
+        "e2": {
+          "title": "Reddito",
+          "description": "Reddito dimostrabile."
+        },
+        "e3": {
+          "title": "Residenza",
+          "description": "Residente in Italia."
+        },
+        "e4": {
+          "title": "Creditizio",
+          "description": "Nessun ritardo in centrale rischi."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento d'identità",
+          "description": "Carta d'identità."
+        },
+        "d2": {
+          "title": "Codice fiscale",
+          "description": "Tessera sanitaria."
+        },
+        "d3": {
+          "title": "Busta paga / CUD",
+          "description": "Ultime due buste paga."
+        },
+        "d4": {
+          "title": "Preventivo veicolo",
+          "description": "Proforma o annuncio."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Serve un anticipo?",
+          "answer": "Non necessariamente."
+        },
+        "f2": {
+          "question": "Posso finanziare un'usata?",
+          "answer": "Sì, di qualsiasi età."
+        },
+        "f3": {
+          "question": "Agevolazioni per elettriche?",
+          "answer": "Sì, condizioni dedicate."
+        }
+      }
+    },
+    "business": {
+      "metaTitle": "Prestito Aziendale | Prestivio",
+      "metaDescription": "Prestito aziendale per PMI e professionisti. Fino a €250.000.",
+      "name": "Prestito Aziendale",
+      "tagline": "Finanzia la tua impresa",
+      "description": "Il prestito aziendale Prestivio finanzia investimenti, circolante e crescita per PMI e professionisti. Fino a €250.000.",
+      "benefits": {
+        "b1": {
+          "title": "Fino a €250.000",
+          "description": "Per investimenti o circolante."
+        },
+        "b2": {
+          "title": "Valutazione reale",
+          "description": "Analizziamo la capacità di rimborso."
+        },
+        "b3": {
+          "title": "Tasso fisso",
+          "description": "Rata costante."
+        },
+        "b4": {
+          "title": "Pratica digitale",
+          "description": "Documentazione online."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Partita IVA",
+          "description": "Attiva da almeno 12 mesi."
+        },
+        "e2": {
+          "title": "Settore",
+          "description": "Professionisti, artigiani, PMI."
+        },
+        "e3": {
+          "title": "Reddito",
+          "description": "Dimostrabile tramite bilanci."
+        },
+        "e4": {
+          "title": "Creditizio",
+          "description": "Nessun ritardo grave."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento d'identità",
+          "description": "Carta d'identità."
+        },
+        "d2": {
+          "title": "CF e P.IVA",
+          "description": "Tessera sanitaria e certificato."
+        },
+        "d3": {
+          "title": "Dichiarazione redditi",
+          "description": "Ultima dichiarazione e bilanci."
+        },
+        "d4": {
+          "title": "Estratto conto",
+          "description": "Conto aziendale ultimi 6 mesi."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Serve una garanzia?",
+          "answer": "Dipende da importo e anzianità."
+        },
+        "f2": {
+          "question": "Per le attrezzature?",
+          "answer": "Sì, può finanziare investimenti."
+        },
+        "f3": {
+          "question": "Durata massima?",
+          "answer": "Fino a 120 mesi."
+        }
+      }
+    },
+    "vat-number": {
+      "metaTitle": "Prestito Partita IVA | Prestivio",
+      "metaDescription": "Prestito per professionisti e partita IVA. Fino a €100.000.",
+      "name": "Prestito Partita IVA",
+      "tagline": "Liquidità per professionisti",
+      "description": "Prestito per professionisti e piccole imprese. Fino a €100.000, tasso fisso.",
+      "benefits": {
+        "b1": {
+          "title": "Fino a €100.000",
+          "description": "Per investimenti o circolante."
+        },
+        "b2": {
+          "title": "Valutazione reale",
+          "description": "Analizziamo la capacità di rimborso."
+        },
+        "b3": {
+          "title": "Tasso fisso",
+          "description": "Rata costante."
+        },
+        "b4": {
+          "title": "Pratica digitale",
+          "description": "Documentazione online."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Partita IVA",
+          "description": "Attiva da almeno 12 mesi."
+        },
+        "e2": {
+          "title": "Settore",
+          "description": "Professionisti, artigiani, PMI."
+        },
+        "e3": {
+          "title": "Reddito",
+          "description": "Dimostrabile tramite bilanci."
+        },
+        "e4": {
+          "title": "Creditizio",
+          "description": "Nessun ritardo grave."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Documento d'identità",
+          "description": "Carta d'identità."
+        },
+        "d2": {
+          "title": "CF e P.IVA",
+          "description": "Tessera sanitaria e certificato."
+        },
+        "d3": {
+          "title": "Dichiarazione redditi",
+          "description": "Ultima dichiarazione e bilanci."
+        },
+        "d4": {
+          "title": "Estratto conto",
+          "description": "Conto aziendale ultimi 6 mesi."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Serve una garanzia?",
+          "answer": "Dipende da importo e anzianità."
+        },
+        "f2": {
+          "question": "Per le attrezzature?",
+          "answer": "Sì, può finanziare investimenti."
+        },
+        "f3": {
+          "question": "Durata massima?",
+          "answer": "Fino a 120 mesi."
+        }
+      }
+    }
+  }
+}

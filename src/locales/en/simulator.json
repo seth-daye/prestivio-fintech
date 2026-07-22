@@ -1,0 +1,28 @@
+{
+  "meta": { "title": "Calculate installment | Prestivio", "description": "Simulate your loan and calculate the monthly installment with the Prestivio simulator." },
+  "hero": { "eyebrow": "Simulator", "title": "Calculate your installment", "subtitle": "Simulate your loan with a fixed annual rate of 4%. This is an indicative estimate." },
+  "controls": {
+    "amountLabel": "Loan amount",
+    "amountValue": "€{{amount}}",
+    "amountMin": "€1,000",
+    "amountMax": "€100,000",
+    "durationLabel": "Duration",
+    "durationValue": "{{months}} months",
+    "durationMin": "12 months",
+    "durationMax": "120 months"
+  },
+  "rate": { "label": "Rate", "value": "4.00%", "description": "Fixed annual rate applied for the entire duration of the loan." },
+  "results": {
+    "monthlyPayment": { "label": "Monthly installment", "subtitle": "Amount to pay each month" },
+    "totalRepayment": { "label": "Total to repay", "subtitle": "Sum of all installments" },
+    "totalInterest": { "label": "Total interest", "subtitle": "Cost of financing" },
+    "annualRate": { "label": "APR", "subtitle": "Annual percentage rate" }
+  },
+  "cta": {
+    "title": "Want to apply for this loan?",
+    "subtitle": "Fill out the form and an advisor will contact you within 48 hours with a personalized offer.",
+    "button": "Apply for this loan",
+    "disclaimer": "The simulation is purely indicative and does not constitute a credit offer."
+  },
+  "form": { "prefilledNote": "Data from simulation", "amountLabel": "Amount", "durationLabel": "Duration" }
+}

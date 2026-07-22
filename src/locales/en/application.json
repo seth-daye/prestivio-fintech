@@ -1,0 +1,155 @@
+{
+  "meta": { "title": "Apply for Loan | Prestivio", "description": "Fill out the online loan application with Prestivio." },
+  "page": { "eyebrow": "Apply for loan", "title": "Apply for your loan", "subtitle": "Fill out the form in a few minutes. An advisor will contact you within 48 hours." },
+  "progress": {
+    "step": "Step {{current}} of {{total}}",
+    "personal": "Personal data",
+    "address": "Residence",
+    "employment": "Employment",
+    "loan": "Loan",
+    "documents": "Documents",
+    "consent": "Consent",
+    "summary": "Summary"
+  },
+  "personal": {
+    "title": "Your personal data",
+    "subtitle": "Enter your personal details.",
+    "firstName": "First name",
+    "firstNamePlaceholder": "John",
+    "lastName": "Last name",
+    "lastNamePlaceholder": "Smith",
+    "dateOfBirth": "Date of birth",
+    "taxCode": "Tax code",
+    "taxCodePlaceholder": "RSSMRA80A01H501Z",
+    "email": "Email",
+    "emailPlaceholder": "john.smith@email.com",
+    "mobilePhone": "Mobile phone",
+    "mobilePhonePlaceholder": "+39 333 1234567"
+  },
+  "address": {
+    "title": "Your address",
+    "subtitle": "Where you currently reside.",
+    "street": "Street and number",
+    "streetPlaceholder": "123 Main Street",
+    "city": "City",
+    "cityPlaceholder": "Milan",
+    "province": "Province (2 letters)",
+    "provincePlaceholder": "MI",
+    "postalCode": "Postal code",
+    "postalCodePlaceholder": "20121",
+    "region": "Region",
+    "regionPlaceholder": "Lombardy"
+  },
+  "employment": {
+    "title": "Your employment situation",
+    "subtitle": "Information about your income.",
+    "employmentStatus": "Employment status",
+    "employmentStatusPlaceholder": "Select...",
+    "employer": "Employer / Company",
+    "employerPlaceholder": "Company name",
+    "monthlyNetIncome": "Monthly net income (€)",
+    "monthlyNetIncomePlaceholder": "2500",
+    "employmentStartDate": "Employment start date",
+    "contractType": "Contract type"
+  },
+  "employmentStatuses": {
+    "employed": "Employee",
+    "selfEmployed": "Self-employed",
+    "pensioner": "Pensioner",
+    "unemployed": "Unemployed"
+  },
+  "contractTypes": {
+    "permanent": "Permanent",
+    "fixedTerm": "Fixed-term",
+    "temporary": "Temporary",
+    "freelance": "Freelancer",
+    "pension": "Pension",
+    "other": "Other"
+  },
+  "loan": {
+    "title": "Loan details",
+    "subtitle": "How much do you want to borrow?",
+    "loanType": "Loan type",
+    "loanTypePlaceholder": "Select...",
+    "requestedAmount": "Requested amount (€)",
+    "requestedAmountPlaceholder": "20000",
+    "loanDuration": "Duration (months)",
+    "loanDurationPlaceholder": "60",
+    "purpose": "Loan purpose",
+    "purposePlaceholder": "Describe what you need the loan for..."
+  },
+  "documents": {
+    "title": "Upload your documents",
+    "subtitle": "Attach the documents needed for processing.",
+    "identityCard": "Identity document",
+    "taxCode": "Tax code",
+    "payslips": "Payslips",
+    "bankStatement": "Bank statement",
+    "otherDocuments": "Other documents",
+    "optional": "optional",
+    "dragDrop": "Drag or click to upload",
+    "maxSize": "Maximum 10MB",
+    "acceptedFormats": "PDF, JPG, PNG"
+  },
+  "consent": {
+    "title": "Consent to data processing",
+    "subtitle": "Read and accept the following notices.",
+    "gdpr": "I have read and accept the GDPR notice on the processing of personal data.",
+    "privacy": "I have read and accept the Privacy Policy.",
+    "marketing": "I consent to the processing of my data for marketing purposes.",
+    "marketingOptional": "(optional)",
+    "viewPrivacy": "Read the Privacy Policy"
+  },
+  "summary": {
+    "title": "Application summary",
+    "subtitle": "Check your data before submitting.",
+    "personalSection": "Personal data",
+    "addressSection": "Address",
+    "employmentSection": "Employment",
+    "loanSection": "Loan",
+    "documentsSection": "Documents",
+    "consentSection": "Consent",
+    "noDocuments": "No documents uploaded",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "success": {
+    "title": "Application submitted successfully!",
+    "subtitle": "Thank you for your request. One of our advisors will contact you within 48 hours.",
+    "referenceLabel": "Reference number",
+    "whatNext": "What happens next?",
+    "next1": "An advisor will analyze your request within 48 hours.",
+    "next2": "We will contact you to propose the best available solutions.",
+    "next3": "Once you choose an offer, the funds arrive in your account.",
+    "backHome": "Back to home",
+    "newApplication": "New application"
+  },
+  "buttons": {
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit application"
+  },
+  "errors": {
+    "required": "Required field",
+    "invalidEmail": "Invalid email",
+    "invalidPhone": "Invalid phone number",
+    "invalidTaxCode": "Invalid tax code",
+    "invalidProvince": "Enter 2 letters",
+    "invalidPostalCode": "Invalid postal code (5 digits)",
+    "invalidDate": "Invalid date",
+    "underage": "You must be at least 18 years old",
+    "selectOption": "Select an option",
+    "invalidIncome": "Enter a valid amount",
+    "invalidAmount": "Minimum amount €1,000",
+    "invalidDuration": "Duration between 12 and 120 months",
+    "gdprRequired": "You must accept the GDPR notice",
+    "privacyRequired": "You must accept the Privacy Policy",
+    "fileTooLarge": "File too large (max 10MB)",
+    "invalidFileType": "Unsupported format",
+    "uploadFailed": "Upload failed. Try again.",
+    "submitFailed": "Submission failed. Please try again later."
+  },
+  "validation": {
+    "checkFields": "Check the highlighted fields."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": { "title": "Calcular cuota | Prestivio", "description": "Simula tu préstamo y calcula la cuota mensual con el simulador Prestivio." },
+  "hero": { "eyebrow": "Simulador", "title": "Calcula tu cuota", "subtitle": "Simula tu préstamo con un tipo fijo del 4% anual. Es una estimación indicativa." },
+  "controls": {
+    "amountLabel": "Importe del préstamo",
+    "amountValue": "€{{amount}}",
+    "amountMin": "1.000 €",
+    "amountMax": "100.000 €",
+    "durationLabel": "Duración",
+    "durationValue": "{{months}} meses",
+    "durationMin": "12 meses",
+    "durationMax": "120 meses"
+  },
+  "rate": { "label": "Tipo", "value": "4,00%", "description": "Tipo fijo anual aplicado durante toda la duración del préstamo." },
+  "results": {
+    "monthlyPayment": { "label": "Cuota mensual", "subtitle": "Importe a pagar cada mes" },
+    "totalRepayment": { "label": "Total a reembolsar", "subtitle": "Suma de todas las cuotas" },
+    "totalInterest": { "label": "Intereses totales", "subtitle": "Coste de la financiación" },
+    "annualRate": { "label": "TAE", "subtitle": "Tasa anual equivalente" }
+  },
+  "cta": {
+    "title": "¿Quieres solicitar este préstamo?",
+    "subtitle": "Rellena el formulario y un asesor te contactará en 48 horas con una propuesta personalizada.",
+    "button": "Solicitar este préstamo",
+    "disclaimer": "La simulación es puramente indicativa y no constituye una oferta de crédito."
+  },
+  "form": { "prefilledNote": "Datos de la simulación", "amountLabel": "Importe", "durationLabel": "Duración" }
+}

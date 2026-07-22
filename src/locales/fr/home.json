@@ -1,0 +1,58 @@
+{
+  "meta": { "title": "Prestivio — Courtier en Crédit | Prêts et Financements sur mesure", "description": "Prestivio est le courtier de crédit indépendant qui trouve le meilleur prêt pour vous en comparant plus de 30 banques." },
+  "hero": {
+    "eyebrow": "Courtier en Crédit · Italie",
+    "title": "Votre prêt, sur mesure",
+    "subtitle": "Nous comparons plus de 30 banques et institutions financières pour vous trouver la solution de crédit la plus avantageuse. Transparence totale, zéro coût caché.",
+    "cta": "Demander une consultation gratuite",
+    "secondaryCta": "Calculez votre mensualité",
+    "trustBadge": "Inscrits au Registre OAM · Courtiers indépendants depuis 2009"
+  },
+  "stats": {
+    "s1": { "value": "15+", "label": "Années d'expérience" },
+    "s2": { "value": "2,8 Mds €", "label": "Financements négociés" },
+    "s3": { "value": "30+", "label": "Banques partenaires" },
+    "s4": { "value": "48h", "label": "Temps de réponse moyen" }
+  },
+  "services": {
+    "eyebrow": "Nos prêts",
+    "title": "Solutions de crédit pour chaque besoin",
+    "subtitle": "De la première maison à la rénovation, du prêt personnel à la délégation de salaire.",
+    "viewDetails": "En savoir plus",
+    "fromRate": "à partir de",
+    "amountLabel": "Montant",
+    "termLabel": "Durée"
+  },
+  "whyUs": {
+    "eyebrow": "Pourquoi Prestivio",
+    "title": "Le courtier qui travaille pour vous, pas pour la banque",
+    "subtitle": "Nous sommes des intermédiaires indépendants : notre seul objectif est de vous trouver les meilleures conditions.",
+    "features": {
+      "f1": { "title": "Indépendance totale", "description": "Nous ne sommes liés à aucune banque. Nous comparons plus de 30 institutions pour vous offrir uniquement les conditions les plus avantageuses." },
+      "f2": { "title": "Transparence absolue", "description": "Aucun coût caché, aucune surprise. Nous vous montrons chaque chiffre, chaque condition." },
+      "f3": { "title": "Conseil dédié", "description": "Un conseiller expert suit votre dossier du début à la fin." },
+      "f4": { "title": "Approbation rapide", "description": "Grâce à nos relations avec les banques, nous obtenons des réponses en 48 heures." }
+    }
+  },
+  "process": {
+    "eyebrow": "Comment ça marche",
+    "title": "Quatre étapes vers votre financement",
+    "subtitle": "Un parcours simple et transparent, de la première consultation au déboursement.",
+    "steps": {
+      "s1": { "title": "Consultation gratuite", "description": "Vous nous parlez de votre projet. Nous analysons votre situation et identifions les solutions les plus adaptées." },
+      "s2": { "title": "Comparaison des banques", "description": "Nous interrogeons plus de 30 institutions pour trouver les meilleures conditions." },
+      "s3": { "title": "Dossier et documents", "description": "Nous vous aidons à préparer la documentation et gérons tout le dossier." },
+      "s4": { "title": "Déboursement", "description": "Une fois approuvé, les fonds arrivent sur votre compte." }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Ils parlent de nous",
+    "title": "La confiance de nos clients",
+    "subtitle": "Plus de 40 000 familles et entreprises ont choisi Prestivio pour leur financement.",
+    "items": {
+      "t1": { "quote": "Ils m'ont trouvé un taux presque deux points en dessous de ce que m'offrait ma banque.", "author": "Marco Bellini", "role": "Prêt personnel", "location": "Milan" },
+      "t2": { "quote": "Consolidation de dettes qui a divisé ma mensualité par deux. Enfin je respire.", "author": "Giulia Ferraro", "role": "Consolidation de dettes", "location": "Rome" },
+      "t3": { "quote": "Hypothèque pour ma première maison à un taux que je ne trouvais nulle part ailleurs.", "author": "Andrea Conti", "role": "Hypothèque maison", "location": "Florence" }
+    }
+  }
+}

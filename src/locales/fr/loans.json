@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "title": "Prêts | Prestivio Courtier en Crédit",
+    "description": "Découvrez tous les prêts disponibles : prêt personnel, délégation de salaire, consolidation de dettes, hypothèque maison et plus."
+  },
+  "listHero": {
+    "eyebrow": "Nos prêts",
+    "title": "Trouvez le prêt qui vous convient",
+    "subtitle": "Comparez nos solutions de crédit et choisissez celle qui correspond le mieux à vos besoins."
+  },
+  "list": {
+    "eyebrow": "Tous les prêts",
+    "title": "Nos solutions de crédit",
+    "subtitle": "De la première maison à la rénovation, du prêt personnel à la délégation de salaire.",
+    "viewDetails": "En savoir plus",
+    "fromRate": "à partir de",
+    "amountLabel": "Montant",
+    "termLabel": "Durée"
+  },
+  "breadcrumb": {
+    "home": "Accueil",
+    "loans": "Prêts"
+  },
+  "heroDetail": {
+    "eyebrow": "Prêt",
+    "cta": "Demander maintenant",
+    "simulatorLink": "Calculez votre mensualité",
+    "ctaApply": "Faites votre demande"
+  },
+  "sections": {
+    "benefits": {
+      "eyebrow": "Avantages",
+      "title": "Pourquoi choisir ce prêt",
+      "subtitle": "Les avantages concrets que cette solution vous offre."
+    },
+    "eligibility": {
+      "eyebrow": "Conditions",
+      "title": "Qui peut en bénéficier",
+      "subtitle": "Les critères d'éligibilité."
+    },
+    "documents": {
+      "eyebrow": "Documentation",
+      "title": "Documents requis",
+      "subtitle": "Ce qu'il faut préparer pour démarrer le dossier."
+    },
+    "process": {
+      "eyebrow": "Comment demander",
+      "title": "Le processus de demande",
+      "subtitle": "Quatre étapes simples pour obtenir votre financement."
+    },
+    "related": {
+      "eyebrow": "Prêts similaires",
+      "title": "D'autres solutions pour vous",
+      "subtitle": "Découvrez d'autres options de crédit qui pourraient vous intéresser."
+    },
+    "faq": {
+      "eyebrow": "Questions fréquentes",
+      "title": "Les réponses que vous cherchez",
+      "subtitle": "Les questions les plus courantes."
+    },
+    "contact": {
+      "eyebrow": "Contactez-nous",
+      "title": "Des questions ?",
+      "subtitle": "Un conseiller expert est prêt à vous aider."
+    },
+    "whyPrestivio": {
+      "eyebrow": "Pourquoi Prestivio",
+      "title": "Pourquoi choisir Prestivio",
+      "subtitle": "Le courtier qui travaille pour vous, pas pour la banque."
+    },
+    "faiDomanda": {
+      "eyebrow": "Commencez aujourd'hui",
+      "title": "Prêt à demander votre prêt ?",
+      "subtitle": "Remplissez la demande en ligne. Un conseiller vous contactera sous 48 heures.",
+      "button": "Faites votre demande"
+    }
+  },
+  "processSteps": {
+    "p1": {
+      "title": "Envoyez votre demande",
+      "description": "Remplissez le formulaire en ligne avec vos coordonnées et le type de prêt souhaité."
+    },
+    "p2": {
+      "title": "Consultation gratuite",
+      "description": "L'un de nos conseillers vous contactera sous 48 heures pour analyser votre situation."
+    },
+    "p3": {
+      "title": "Comparaison des banques",
+      "description": "Nous comparons plus de 30 institutions pour vous trouver les meilleures conditions."
+    },
+    "p4": {
+      "title": "Déboursement",
+      "description": "Une fois le dossier approuvé, les fonds arrivent sur votre compte."
+    }
+  },
+  "loans": {
+    "personal": {
+      "metaTitle": "Prêt Personnel | Prestivio",
+      "metaDescription": "Prêt personnel de 1 500 € à 75 000 € à taux fixe. Demandez en ligne avec Prestivio.",
+      "name": "Prêt Personnel",
+      "tagline": "La liberté de choisir comment utiliser vos fonds",
+      "description": "Le prêt personnel Prestivio est la solution de crédit non affecté la plus flexible. Vous pouvez demander de 1 500 € à 75 000 € et utiliser le montant pour tout projet.",
+      "benefits": {
+        "b1": {
+          "title": "Montant flexible",
+          "description": "De 1 500 € à 75 000 €."
+        },
+        "b2": {
+          "title": "Taux fixe",
+          "description": "Mensualité constante pendant toute la durée."
+        },
+        "b3": {
+          "title": "Sans affectation",
+          "description": "Utilisez les fonds comme vous le souhaitez."
+        },
+        "b4": {
+          "title": "Remboursement anticipé gratuit",
+          "description": "Remboursez par anticipation sans pénalité."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Âge",
+          "description": "18 – 80 ans."
+        },
+        "e2": {
+          "title": "Revenus",
+          "description": "Travailleur ou retraité avec revenus démontrables."
+        },
+        "e3": {
+          "title": "Résidence",
+          "description": "Résident en Italie."
+        },
+        "e4": {
+          "title": "Crédit",
+          "description": "Aucun retard dans les bases de données de crédit."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Pièce d'identité",
+          "description": "Carte d'identité ou passeport."
+        },
+        "d2": {
+          "title": "Code fiscal",
+          "description": "Carte de santé."
+        },
+        "d3": {
+          "title": "Fiche de paie / CUD",
+          "description": "Deux dernières fiches de paie ou CUD."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Coordonnées bancaires."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Combien de temps faut-il ?",
+          "answer": "La réponse arrive en 48 heures."
+        },
+        "f2": {
+          "question": "Puis-je rembourser par anticipation ?",
+          "answer": "Oui, sans pénalité."
+        },
+        "f3": {
+          "question": "Un garant est-il requis ?",
+          "answer": "Cela dépend du montant et du profil."
+        }
+      }
+    },
+    "cambializzato": {
+      "metaTitle": "Prêt à Billet à Ordre | Prestivio",
+      "metaDescription": "Prêt à billet à ordre accessible même avec des incidents de crédit. De 2 500 € à 60 000 €.",
+      "name": "Prêt à Billet à Ordre",
+      "tagline": "Accessible même avec des incidents de crédit",
+      "description": "Le prêt à billet à ordre s'adresse à ceux qui ont eu des difficultés de crédit. Les billets à ordre servent de garantie.",
+      "benefits": {
+        "b1": {
+          "title": "Accessible avec des retards",
+          "description": "Accordé même avec des incidents de crédit."
+        },
+        "b2": {
+          "title": "Garantie flexible",
+          "description": "Les billets à ordre servent de garantie."
+        },
+        "b3": {
+          "title": "Jusqu'à 60 000 €",
+          "description": "Liquidité même pour les profils non bancables."
+        },
+        "b4": {
+          "title": "Taux fixe",
+          "description": "Mensualité constante."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Âge",
+          "description": "21 – 75 ans."
+        },
+        "e2": {
+          "title": "Revenus",
+          "description": "Revenus démontrables."
+        },
+        "e3": {
+          "title": "Résidence",
+          "description": "Résident en Italie."
+        },
+        "e4": {
+          "title": "Crédit",
+          "description": "Accepté avec des incidents antérieurs."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Pièce d'identité",
+          "description": "Carte d'identité ou passeport."
+        },
+        "d2": {
+          "title": "Code fiscal",
+          "description": "Carte de santé."
+        },
+        "d3": {
+          "title": "Revenus",
+          "description": "Fiches de paie ou déclaration de revenus."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Coordonnées bancaires."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Est-il accordé avec des incidents de crédit ?",
+          "answer": "Oui, les banques évaluent au cas par cas."
+        },
+        "f2": {
+          "question": "Que sont les billets à ordre ?",
+          "answer": "Des titres de crédit garantissant le remboursement."
+        },
+        "f3": {
+          "question": "Le taux est-il plus élevé ?",
+          "answer": "Légèrement supérieur au prêt personnel."
+        }
+      }
+    },
+    "debt-consolidation": {
+      "metaTitle": "Consolidation de Dettes | Prestivio",
+      "metaDescription": "Consolidation de dettes : regroupez vos prêts en un seul avec une mensualité plus basse.",
+      "name": "Consolidation de Dettes",
+      "tagline": "Une seule mensualité, plus basse",
+      "description": "Regroupe tous vos prêts en cours en un seul financement avec une mensualité souvent plus basse.",
+      "benefits": {
+        "b1": {
+          "title": "Mensualité unique",
+          "description": "Un seul paiement mensuel."
+        },
+        "b2": {
+          "title": "Mensualité plus basse",
+          "description": "Souvent réduite significativement."
+        },
+        "b3": {
+          "title": "Liquidité supplémentaire",
+          "description": "Vous pouvez obtenir un financement additionnel."
+        },
+        "b4": {
+          "title": "Taux inférieur",
+          "description": "Souvent en dessous de la moyenne."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Prêts en cours",
+          "description": "Au moins un financement actif."
+        },
+        "e2": {
+          "title": "Âge",
+          "description": "18 – 80 ans."
+        },
+        "e3": {
+          "title": "Revenus",
+          "description": "Revenus démontrables."
+        },
+        "e4": {
+          "title": "Crédit",
+          "description": "Aucun retard grave."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Pièce d'identité",
+          "description": "Carte d'identité."
+        },
+        "d2": {
+          "title": "Documentation des prêts",
+          "description": "Contrats et relevés de remboursement."
+        },
+        "d3": {
+          "title": "Fiche de paie / CUD",
+          "description": "Deux dernières fiches de paie."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Coordonnées bancaires."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Combien puis-je économiser ?",
+          "answer": "La mensualité peut baisser de 20 à 40 %."
+        },
+        "f2": {
+          "question": "Puis-je obtenir une liquidité supplémentaire ?",
+          "answer": "Oui, c'est souvent possible."
+        },
+        "f3": {
+          "question": "Quelles dettes consolider ?",
+          "answer": "Prêts personnels, auto, cartes de crédit."
+        }
+      }
+    },
+    "salary-assignment": {
+      "metaTitle": "Délégation de Salaire | Prestivio",
+      "metaDescription": "Délégation de salaire pour employés et retraités. Taux à partir de 3,95 %.",
+      "name": "Délégation de Salaire",
+      "tagline": "La mensualité prélevée sur votre salaire",
+      "description": "Prêt garanti pour les employés et retraités. La mensualité est prélevée directement sur votre salaire.",
+      "benefits": {
+        "b1": {
+          "title": "Taux bas",
+          "description": "À partir de 3,95 %."
+        },
+        "b2": {
+          "title": "Forte approbation",
+          "description": "Réponse presque toujours positive."
+        },
+        "b3": {
+          "title": "Mensualités automatiques",
+          "description": "Prélevées directement sur votre salaire."
+        },
+        "b4": {
+          "title": "Assurance incluse",
+          "description": "Couverture vie et emploi incluse."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Employés",
+          "description": "Contrat à durée indéterminée."
+        },
+        "e2": {
+          "title": "Retraités",
+          "description": "Retraités INPS."
+        },
+        "e3": {
+          "title": "Âge",
+          "description": "18 – 85 ans."
+        },
+        "e4": {
+          "title": "Ancienneté",
+          "description": "Au moins 3 mois d'ancienneté."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Pièce d'identité",
+          "description": "Carte d'identité."
+        },
+        "d2": {
+          "title": "Code fiscal",
+          "description": "Carte de santé."
+        },
+        "d3": {
+          "title": "Fiche de paie / CUD",
+          "description": "Deux dernières fiches de paie."
+        },
+        "d4": {
+          "title": "Attestation de salaire",
+          "description": "Délivrée par l'employeur."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "La mensualité peut-elle dépasser un cinquième ?",
+          "answer": "Non, par loi maximum 20 %."
+        },
+        "f2": {
+          "question": "Si je change d'emploi ?",
+          "answer": "Le prélèvement continue chez le nouvel employeur."
+        },
+        "f3": {
+          "question": "Puis-je rembourser par anticipation ?",
+          "answer": "Oui, avec une remise d'intérêts."
+        }
+      }
+    },
+    "mortgage": {
+      "metaTitle": "Prêt Immobilier | Prestivio",
+      "metaDescription": "Hypothèque immobilière avec taux à partir de 2,95 %. Comparaison de plus de 30 banques.",
+      "name": "Prêt Immobilier",
+      "tagline": "L'hypothèque pour votre maison",
+      "description": "Le prêt immobilier Prestivio couvre l'achat, la construction ou la rénovation. Nous comparons les hypothèques de plus de 30 banques.",
+      "benefits": {
+        "b1": {
+          "title": "Taux à partir de 2,95 %",
+          "description": "Parmi les plus compétitifs du marché."
+        },
+        "b2": {
+          "title": "Durée jusqu'à 30 ans",
+          "description": "Plan de remboursement long."
+        },
+        "b3": {
+          "title": "LTV jusqu'à 80 %",
+          "description": "Financement jusqu'à 80 % de la valeur."
+        },
+        "b4": {
+          "title": "Transfert gratuit",
+          "description": "Transférez votre hypothèque sans frais."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Âge",
+          "description": "18 – 75 ans à l'échéance."
+        },
+        "e2": {
+          "title": "Revenus",
+          "description": "Mensualité/revenus maximum 35 %."
+        },
+        "e3": {
+          "title": "Bien immobilier",
+          "description": "Habitable et d'une valeur cohérente."
+        },
+        "e4": {
+          "title": "Crédit",
+          "description": "Aucun retard dans les bases de données de crédit."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Identité et code fiscal",
+          "description": "Des deux demandeurs."
+        },
+        "d2": {
+          "title": "Revenus",
+          "description": "Fiches de paie ou bilans sur 2 ans."
+        },
+        "d3": {
+          "title": "Bien immobilier",
+          "description": "Compromis, plan, acte."
+        },
+        "d4": {
+          "title": "Financier",
+          "description": "Relevés bancaires des 6 derniers mois."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Fixe ou variable ?",
+          "answer": "Le conseiller vous aide à choisir."
+        },
+        "f2": {
+          "question": "Combien de temps faut-il ?",
+          "answer": "30 à 60 jours après l'étude du dossier."
+        },
+        "f3": {
+          "question": "Puis-je transférer mon hypothèque ?",
+          "answer": "Oui, le transfert est gratuit par loi."
+        }
+      }
+    },
+    "auto": {
+      "metaTitle": "Prêt Auto | Prestivio",
+      "metaDescription": "Financez votre voiture neuve ou d'occasion. Taux fixe, réponse en 48 heures.",
+      "name": "Prêt Auto",
+      "tagline": "Financez votre nouvelle voiture",
+      "description": "Le prêt auto Prestivio finance les véhicules neufs ou d'occasion. Dossier numérique, réponse en 48 heures.",
+      "benefits": {
+        "b1": {
+          "title": "Voiture neuve ou d'occasion",
+          "description": "Jusqu'à 84 mois de durée."
+        },
+        "b2": {
+          "title": "Taux fixe",
+          "description": "Mensualité constante."
+        },
+        "b3": {
+          "title": "Réponse en 48 heures",
+          "description": "Dossier numérique et rapide."
+        },
+        "b4": {
+          "title": "Véhicule immédiatement à vous",
+          "description": "Aucune saisie sur le véhicule."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Âge",
+          "description": "18 – 80 ans."
+        },
+        "e2": {
+          "title": "Revenus",
+          "description": "Revenus démontrables."
+        },
+        "e3": {
+          "title": "Résidence",
+          "description": "Résident en Italie."
+        },
+        "e4": {
+          "title": "Crédit",
+          "description": "Aucun retard dans les bases de données de crédit."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Pièce d'identité",
+          "description": "Carte d'identité."
+        },
+        "d2": {
+          "title": "Code fiscal",
+          "description": "Carte de santé."
+        },
+        "d3": {
+          "title": "Fiche de paie / CUD",
+          "description": "Deux dernières fiches de paie."
+        },
+        "d4": {
+          "title": "Devis du véhicule",
+          "description": "Proforma ou annonce."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Un apport est-il requis ?",
+          "answer": "Pas nécessairement."
+        },
+        "f2": {
+          "question": "Puis-je financer une voiture d'occasion ?",
+          "answer": "Oui, de tout âge."
+        },
+        "f3": {
+          "question": "Des incitations pour les électriques ?",
+          "answer": "Oui, conditions dédiées."
+        }
+      }
+    },
+    "business": {
+      "metaTitle": "Prêt Entreprise | Prestivio",
+      "metaDescription": "Prêt entreprise pour PME et professionnels. Jusqu'à 250 000 €.",
+      "name": "Prêt Entreprise",
+      "tagline": "Financez votre entreprise",
+      "description": "Le prêt entreprise Prestivio finance les investissements, le fonds de roulement et la croissance pour les PME et professionnels. Jusqu'à 250 000 €.",
+      "benefits": {
+        "b1": {
+          "title": "Jusqu'à 250 000 €",
+          "description": "Pour investissements ou fonds de roulement."
+        },
+        "b2": {
+          "title": "Évaluation réelle",
+          "description": "Nous analysons la capacité de remboursement."
+        },
+        "b3": {
+          "title": "Taux fixe",
+          "description": "Mensualité constante."
+        },
+        "b4": {
+          "title": "Dossier numérique",
+          "description": "Documentation en ligne."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Numéro de TVA",
+          "description": "Actif depuis au moins 12 mois."
+        },
+        "e2": {
+          "title": "Secteur",
+          "description": "Professionnels, artisans, PME."
+        },
+        "e3": {
+          "title": "Revenus",
+          "description": "Démontrables via les bilans."
+        },
+        "e4": {
+          "title": "Crédit",
+          "description": "Aucun retard grave."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Pièce d'identité",
+          "description": "Carte d'identité."
+        },
+        "d2": {
+          "title": "Code fiscal et n° TVA",
+          "description": "Carte de santé et certificat."
+        },
+        "d3": {
+          "title": "Déclaration de revenus",
+          "description": "Dernière déclaration et bilans."
+        },
+        "d4": {
+          "title": "Relevé de compte",
+          "description": "Compte professionnel des 6 derniers mois."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Une garantie est-elle requise ?",
+          "answer": "Cela dépend du montant et de l'ancienneté."
+        },
+        "f2": {
+          "question": "Pour les équipements ?",
+          "answer": "Oui, peut financer des investissements."
+        },
+        "f3": {
+          "question": "Durée maximale ?",
+          "answer": "Jusqu'à 120 mois."
+        }
+      }
+    },
+    "vat-number": {
+      "metaTitle": "Prêt Professionnel | Prestivio",
+      "metaDescription": "Prêt pour professionnels et indépendants. Jusqu'à 100 000 €.",
+      "name": "Prêt Professionnel",
+      "tagline": "Liquidité pour les professionnels",
+      "description": "Prêt pour professionnels et petites entreprises. Jusqu'à 100 000 €, taux fixe.",
+      "benefits": {
+        "b1": {
+          "title": "Jusqu'à 100 000 €",
+          "description": "Pour investissements ou fonds de roulement."
+        },
+        "b2": {
+          "title": "Évaluation réelle",
+          "description": "Nous analysons la capacité de remboursement."
+        },
+        "b3": {
+          "title": "Taux fixe",
+          "description": "Mensualité constante."
+        },
+        "b4": {
+          "title": "Dossier numérique",
+          "description": "Documentation en ligne."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Numéro de TVA",
+          "description": "Actif depuis au moins 12 mois."
+        },
+        "e2": {
+          "title": "Secteur",
+          "description": "Professionnels, artisans, PME."
+        },
+        "e3": {
+          "title": "Revenus",
+          "description": "Démontrables via les bilans."
+        },
+        "e4": {
+          "title": "Crédit",
+          "description": "Aucun retard grave."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Pièce d'identité",
+          "description": "Carte d'identité."
+        },
+        "d2": {
+          "title": "Code fiscal et n° TVA",
+          "description": "Carte de santé et certificat."
+        },
+        "d3": {
+          "title": "Déclaration de revenus",
+          "description": "Dernière déclaration et bilans."
+        },
+        "d4": {
+          "title": "Relevé de compte",
+          "description": "Compte professionnel des 6 derniers mois."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Une garantie est-elle requise ?",
+          "answer": "Cela dépend du montant et de l'ancienneté."
+        },
+        "f2": {
+          "question": "Pour les équipements ?",
+          "answer": "Oui, peut financer des investissements."
+        },
+        "f3": {
+          "question": "Durée maximale ?",
+          "answer": "Jusqu'à 120 mois."
+        }
+      }
+    }
+  }
+}

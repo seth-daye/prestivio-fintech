@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "title": "Kredite | Prestivio Kreditmakler",
+    "description": "Entdecken Sie alle verfügbaren Kredite: Privatkredit, Gehaltsabtretung, Schuldenkonsolidierung, Baukredit und mehr."
+  },
+  "listHero": {
+    "eyebrow": "Unsere Kredite",
+    "title": "Finden Sie den richtigen Kredit für Sie",
+    "subtitle": "Vergleichen Sie unsere Kreditlösungen und wählen Sie die für Ihre Bedürfnisse am besten geeignete."
+  },
+  "list": {
+    "eyebrow": "Alle Kredite",
+    "title": "Unsere Kreditlösungen",
+    "subtitle": "Vom ersten Eigenheim bis zur Renovierung, vom Privatkredit bis zur Gehaltsabtretung.",
+    "viewDetails": "Mehr erfahren",
+    "fromRate": "ab",
+    "amountLabel": "Betrag",
+    "termLabel": "Laufzeit"
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "loans": "Kredite"
+  },
+  "heroDetail": {
+    "eyebrow": "Kredit",
+    "cta": "Jetzt beantragen",
+    "simulatorLink": "Berechnen Sie Ihre Rate",
+    "ctaApply": "Jetzt beantragen"
+  },
+  "sections": {
+    "benefits": {
+      "eyebrow": "Vorteile",
+      "title": "Warum diesen Kredit wählen",
+      "subtitle": "Die konkreten Vorteile, die diese Lösung Ihnen bietet."
+    },
+    "eligibility": {
+      "eyebrow": "Voraussetzungen",
+      "title": "Wer kann ihn beantragen",
+      "subtitle": "Die Zulassungskriterien."
+    },
+    "documents": {
+      "eyebrow": "Dokumentation",
+      "title": "Erforderliche Dokumente",
+      "subtitle": "Was Sie vorbereiten müssen, um den Antrag zu starten."
+    },
+    "process": {
+      "eyebrow": "Wie beantragen",
+      "title": "Der Antragsprozess",
+      "subtitle": "Vier einfache Schritte zu Ihrer Finanzierung."
+    },
+    "related": {
+      "eyebrow": "Ähnliche Kredite",
+      "title": "Weitere Lösungen für Sie",
+      "subtitle": "Entdecken Sie weitere Kreditoptionen, die Sie interessieren könnten."
+    },
+    "faq": {
+      "eyebrow": "Häufige Fragen",
+      "title": "Die Antworten, die Sie suchen",
+      "subtitle": "Die häufigsten Fragen."
+    },
+    "contact": {
+      "eyebrow": "Kontakt",
+      "title": "Fragen?",
+      "subtitle": "Ein erfahrener Berater steht bereit, Ihnen zu helfen."
+    },
+    "whyPrestivio": {
+      "eyebrow": "Warum Prestivio",
+      "title": "Warum Prestivio wählen",
+      "subtitle": "Der Makler, der für Sie arbeitet, nicht für die Bank."
+    },
+    "faiDomanda": {
+      "eyebrow": "Heute starten",
+      "title": "Bereit, Ihren Kredit zu beantragen?",
+      "subtitle": "Füllen Sie den Online-Antrag aus. Ein Berater wird sich innerhalb von 48 Stunden bei Ihnen melden.",
+      "button": "Jetzt beantragen"
+    }
+  },
+  "processSteps": {
+    "p1": {
+      "title": "Reichen Sie Ihren Antrag ein",
+      "description": "Füllen Sie das Online-Formular mit Ihren Daten und der gewünschten Kreditart aus."
+    },
+    "p2": {
+      "title": "Kostenlose Beratung",
+      "description": "Einer unserer Berater wird sich innerhalb von 48 Stunden bei Ihnen melden, um Ihre Situation zu analysieren."
+    },
+    "p3": {
+      "title": "Bankenvergleich",
+      "description": "Wir vergleichen über 30 Institute, um die besten Konditionen zu finden."
+    },
+    "p4": {
+      "title": "Auszahlung",
+      "description": "Nach Genehmigung des Antrags wird die Liquidität auf Ihr Konto überwiesen."
+    }
+  },
+  "loans": {
+    "personal": {
+      "metaTitle": "Privatkredit | Prestivio",
+      "metaDescription": "Privatkredit von 1.500 € bis 75.000 € mit Festzins. Online bei Prestivio beantragen.",
+      "name": "Privatkredit",
+      "tagline": "Freiheit bei der Verwendung Ihrer Liquidität",
+      "description": "Der Prestivio Privatkredit ist die flexibelste zweckfreie Kreditlösung. Sie können 1.500 € bis 75.000 € beantragen und den Betrag für jedes Projekt verwenden.",
+      "benefits": {
+        "b1": {
+          "title": "Flexibler Betrag",
+          "description": "Von 1.500 € bis 75.000 €."
+        },
+        "b2": {
+          "title": "Festzins",
+          "description": "Konstante Rate über die gesamte Laufzeit."
+        },
+        "b3": {
+          "title": "Keine Zweckbindung",
+          "description": "Verwenden Sie die Liquidität nach Belieben."
+        },
+        "b4": {
+          "title": "Kostenlose Tilgung",
+          "description": "Vorzeitig tilgen ohne Strafen."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Alter",
+          "description": "18 – 80 Jahre."
+        },
+        "e2": {
+          "title": "Einkommen",
+          "description": "Arbeitnehmer oder Rentner mit nachweisbarem Einkommen."
+        },
+        "e3": {
+          "title": "Wohnsitz",
+          "description": "Wohnhaft in Italien."
+        },
+        "e4": {
+          "title": "Bonität",
+          "description": "Keine Verzüge in Auskunfteien."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Ausweis",
+          "description": "Personalausweis oder Reisepass."
+        },
+        "d2": {
+          "title": "Steuernummer",
+          "description": "Gesundheitskarte."
+        },
+        "d3": {
+          "title": "Gehaltsabrechnung / CUD",
+          "description": "Letzte zwei Gehaltsabrechnungen oder CUD."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Bankverbindung."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Wie lange dauert es?",
+          "answer": "Die Antwort kommt in 48 Stunden."
+        },
+        "f2": {
+          "question": "Kann ich vorzeitig tilgen?",
+          "answer": "Ja, ohne Strafen."
+        },
+        "f3": {
+          "question": "Wird ein Bürge benötigt?",
+          "answer": "Hängt vom Betrag und Profil ab."
+        }
+      }
+    },
+    "cambializzato": {
+      "metaTitle": "Wechselkredit | Prestivio",
+      "metaDescription": "Wechselkredit auch mit Bonitätseinträgen zugänglich. Von 2.500 € bis 60.000 €.",
+      "name": "Wechselkredit",
+      "tagline": "Auch mit Bonitätseinträgen zugänglich",
+      "description": "Der Wechselkredit richtet sich an Personen, die Kreditschwierigkeiten hatten. Die Wechsel dienen als Sicherheit.",
+      "benefits": {
+        "b1": {
+          "title": "Zugänglich bei Verzügen",
+          "description": "Auch mit Bonitätseinträgen gewährt."
+        },
+        "b2": {
+          "title": "Flexible Sicherheit",
+          "description": "Die Wechsel dienen als Sicherheit."
+        },
+        "b3": {
+          "title": "Bis zu 60.000 €",
+          "description": "Liquidität auch für nicht bankfähige Profile."
+        },
+        "b4": {
+          "title": "Festzins",
+          "description": "Konstante Rate."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Alter",
+          "description": "21 – 75 Jahre."
+        },
+        "e2": {
+          "title": "Einkommen",
+          "description": "Nachweisbares Einkommen."
+        },
+        "e3": {
+          "title": "Wohnsitz",
+          "description": "Wohnhaft in Italien."
+        },
+        "e4": {
+          "title": "Bonität",
+          "description": "Mit früheren Einträgen akzeptiert."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Ausweis",
+          "description": "Personalausweis oder Reisepass."
+        },
+        "d2": {
+          "title": "Steuernummer",
+          "description": "Gesundheitskarte."
+        },
+        "d3": {
+          "title": "Einkommen",
+          "description": "Gehaltsabrechnungen oder Steuererklärung."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Bankverbindung."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Wird er mit Einträgen gewährt?",
+          "answer": "Ja, die Banken prüfen von Fall zu Fall."
+        },
+        "f2": {
+          "question": "Was sind Wechsel?",
+          "answer": "Wertpapiere, die die Rückzahlung garantieren."
+        },
+        "f3": {
+          "question": "Ist der Zins höher?",
+          "answer": "Etwas höher als beim Privatkredit."
+        }
+      }
+    },
+    "debt-consolidation": {
+      "metaTitle": "Schuldenkonsolidierung | Prestivio",
+      "metaDescription": "Schuldenkonsolidierung: Fassen Sie Ihre Kredite in einem zusammen mit niedrigerer Rate.",
+      "name": "Schuldenkonsolidierung",
+      "tagline": "Eine einzige Rate, niedriger",
+      "description": "Fasst alle Ihre laufenden Kredite in einer einzigen Finanzierung mit oft niedrigerer Rate zusammen.",
+      "benefits": {
+        "b1": {
+          "title": "Einheitliche Rate",
+          "description": "Eine monatliche Zahlung."
+        },
+        "b2": {
+          "title": "Niedrigere Rate",
+          "description": "Sinkt oft deutlich."
+        },
+        "b3": {
+          "title": "Zusätzliche Liquidität",
+          "description": "Sie können zusätzliche Finanzierung erhalten."
+        },
+        "b4": {
+          "title": "Niedrigerer Zins",
+          "description": "Oft unter dem Durchschnitt."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Laufende Kredite",
+          "description": "Mindestens eine aktive Finanzierung."
+        },
+        "e2": {
+          "title": "Alter",
+          "description": "18 – 80 Jahre."
+        },
+        "e3": {
+          "title": "Einkommen",
+          "description": "Nachweisbares Einkommen."
+        },
+        "e4": {
+          "title": "Bonität",
+          "description": "Keine schweren Verzüge."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Ausweis",
+          "description": "Personalausweis."
+        },
+        "d2": {
+          "title": "Kreditunterlagen",
+          "description": "Verträge und Tilgungspläne."
+        },
+        "d3": {
+          "title": "Gehaltsabrechnung / CUD",
+          "description": "Letzte zwei Gehaltsabrechnungen."
+        },
+        "d4": {
+          "title": "IBAN",
+          "description": "Bankverbindung."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Wie viel kann ich sparen?",
+          "answer": "Die Rate kann um 20-40% sinken."
+        },
+        "f2": {
+          "question": "Kann ich zusätzliche Liquidität erhalten?",
+          "answer": "Ja, oft möglich."
+        },
+        "f3": {
+          "question": "Welche Schulden konsolidieren?",
+          "answer": "Privatkredite, Autokredite, Kreditkarten."
+        }
+      }
+    },
+    "salary-assignment": {
+      "metaTitle": "Gehaltsabtretung | Prestivio",
+      "metaDescription": "Gehaltsabtretung für Arbeitnehmer und Rentner. Zinsen ab 3,95%.",
+      "name": "Gehaltsabtretung",
+      "tagline": "Die Rate wird vom Gehalt abgezogen",
+      "description": "Besicherter Kredit für Arbeitnehmer und Rentner. Die Rate wird direkt vom Gehalt abgezogen.",
+      "benefits": {
+        "b1": {
+          "title": "Niedrige Zinsen",
+          "description": "Ab 3,95%."
+        },
+        "b2": {
+          "title": "Hohe Genehmigung",
+          "description": "Ergebnis fast immer positiv."
+        },
+        "b3": {
+          "title": "Automatische Raten",
+          "description": "Direkt vom Gehalt abgezogen."
+        },
+        "b4": {
+          "title": "Versicherung inklusive",
+          "description": "Lebens- und Arbeitsplatzdeckung inklusive."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Arbeitnehmer",
+          "description": "Unbefristeter Arbeitsvertrag."
+        },
+        "e2": {
+          "title": "Rentner",
+          "description": "INPS-Rentner."
+        },
+        "e3": {
+          "title": "Alter",
+          "description": "18 – 85 Jahre."
+        },
+        "e4": {
+          "title": "Betriebszugehörigkeit",
+          "description": "Mindestens 3 Monate."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Ausweis",
+          "description": "Personalausweis."
+        },
+        "d2": {
+          "title": "Steuernummer",
+          "description": "Gesundheitskarte."
+        },
+        "d3": {
+          "title": "Gehaltsabrechnung / CUD",
+          "description": "Letzte zwei Gehaltsabrechnungen."
+        },
+        "d4": {
+          "title": "Gehaltsbescheinigung",
+          "description": "Vom Arbeitgeber ausgestellt."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Kann die Rate ein Fünftel übersteigen?",
+          "answer": "Nein, gesetzlich maximal 20%."
+        },
+        "f2": {
+          "question": "Wenn ich den Job wechsle?",
+          "answer": "Der Abzug wird beim neuen Arbeitgeber fortgesetzt."
+        },
+        "f3": {
+          "question": "Kann ich vorzeitig tilgen?",
+          "answer": "Ja, mit Zinsrabatt."
+        }
+      }
+    },
+    "mortgage": {
+      "metaTitle": "Baukredit | Prestivio",
+      "metaDescription": "Hypothek mit Zinsen ab 2,95%. Vergleich von über 30 Banken.",
+      "name": "Baukredit",
+      "tagline": "Die Hypothek für Ihr Eigenheim",
+      "description": "Der Prestivio Baukredit deckt Kauf, Bau oder Renovierung. Wir vergleichen Hypotheken von über 30 Banken.",
+      "benefits": {
+        "b1": {
+          "title": "Zinsen ab 2,95%",
+          "description": "Unter den wettbewerbsfähigsten am Markt."
+        },
+        "b2": {
+          "title": "Laufzeit bis 30 Jahre",
+          "description": "Langer Tilgungsplan."
+        },
+        "b3": {
+          "title": "LTV bis 80%",
+          "description": "Finanzierung bis zu 80% des Wertes."
+        },
+        "b4": {
+          "title": "Kostenlose Umschuldung",
+          "description": "Übertragen Sie Ihre Hypothek ohne Kosten."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Alter",
+          "description": "18 – 75 Jahre bei Fälligkeit."
+        },
+        "e2": {
+          "title": "Einkommen",
+          "description": "Rate/Einkommen maximal 35%."
+        },
+        "e3": {
+          "title": "Immobilie",
+          "description": "Bewohnbar und mit kohärentem Wert."
+        },
+        "e4": {
+          "title": "Bonität",
+          "description": "Keine Verzüge in Auskunfteien."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Ausweis und Steuernummer",
+          "description": "Beider Antragsteller."
+        },
+        "d2": {
+          "title": "Einkommen",
+          "description": "Gehaltsabrechnungen oder 2-Jahres-Bilanzen."
+        },
+        "d3": {
+          "title": "Immobilie",
+          "description": "Vorvertrag, Grundriss, Urkunde."
+        },
+        "d4": {
+          "title": "Finanzen",
+          "description": "Kontoauszüge der letzten 6 Monate."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Fest oder variabel?",
+          "answer": "Der Berater hilft Ihnen bei der Wahl."
+        },
+        "f2": {
+          "question": "Wie lange dauert es?",
+          "answer": "30-60 Tage nach Antragstellung."
+        },
+        "f3": {
+          "question": "Kann ich umschulden?",
+          "answer": "Ja, die Umschuldung ist gesetzlich kostenlos."
+        }
+      }
+    },
+    "auto": {
+      "metaTitle": "Autokredit | Prestivio",
+      "metaDescription": "Finanzieren Sie Ihr neues oder gebrauchtes Auto. Festzins, Antwort in 48 Stunden.",
+      "name": "Autokredit",
+      "tagline": "Finanzieren Sie Ihr neues Auto",
+      "description": "Der Prestivio Autokredit finanziert neue oder gebrauchte Fahrzeuge. Digitaler Antrag, Antwort in 48 Stunden.",
+      "benefits": {
+        "b1": {
+          "title": "Neues oder gebrauchtes Auto",
+          "description": "Bis zu 84 Monate Laufzeit."
+        },
+        "b2": {
+          "title": "Festzins",
+          "description": "Konstante Rate."
+        },
+        "b3": {
+          "title": "Antwort in 48 Stunden",
+          "description": "Digitaler und schneller Antrag."
+        },
+        "b4": {
+          "title": "Fahrzeug sofort Ihres",
+          "description": "Keine Belastung auf dem Fahrzeug."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "Alter",
+          "description": "18 – 80 Jahre."
+        },
+        "e2": {
+          "title": "Einkommen",
+          "description": "Nachweisbares Einkommen."
+        },
+        "e3": {
+          "title": "Wohnsitz",
+          "description": "Wohnhaft in Italien."
+        },
+        "e4": {
+          "title": "Bonität",
+          "description": "Keine Verzüge in Auskunfteien."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Ausweis",
+          "description": "Personalausweis."
+        },
+        "d2": {
+          "title": "Steuernummer",
+          "description": "Gesundheitskarte."
+        },
+        "d3": {
+          "title": "Gehaltsabrechnung / CUD",
+          "description": "Letzte zwei Gehaltsabrechnungen."
+        },
+        "d4": {
+          "title": "Fahrzeugangebot",
+          "description": "Proforma oder Anzeige."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Ist eine Anzahlung erforderlich?",
+          "answer": "Nicht zwingend."
+        },
+        "f2": {
+          "question": "Kann ich einen Gebrauchten finanzieren?",
+          "answer": "Ja, jeden Alters."
+        },
+        "f3": {
+          "question": "Vergünstigungen für Elektroautos?",
+          "answer": "Ja, spezielle Konditionen."
+        }
+      }
+    },
+    "business": {
+      "metaTitle": "Unternehmenskredit | Prestivio",
+      "metaDescription": "Unternehmenskredit für KMU und Freiberufler. Bis zu 250.000 €.",
+      "name": "Unternehmenskredit",
+      "tagline": "Finanzieren Sie Ihr Unternehmen",
+      "description": "Der Prestivio Unternehmenskredit finanziert Investitionen, Umlaufvermögen und Wachstum für KMU und Freiberufler. Bis zu 250.000 €.",
+      "benefits": {
+        "b1": {
+          "title": "Bis zu 250.000 €",
+          "description": "Für Investitionen oder Umlaufvermögen."
+        },
+        "b2": {
+          "title": "Reale Bewertung",
+          "description": "Wir analysieren die Rückzahlungsfähigkeit."
+        },
+        "b3": {
+          "title": "Festzins",
+          "description": "Konstante Rate."
+        },
+        "b4": {
+          "title": "Digitaler Antrag",
+          "description": "Online-Dokumentation."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "USt-IdNr.",
+          "description": "Seit mindestens 12 Monaten aktiv."
+        },
+        "e2": {
+          "title": "Sektor",
+          "description": "Freiberufler, Handwerker, KMU."
+        },
+        "e3": {
+          "title": "Einkommen",
+          "description": "Nachweisbar über Bilanzen."
+        },
+        "e4": {
+          "title": "Bonität",
+          "description": "Keine schweren Verzüge."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Ausweis",
+          "description": "Personalausweis."
+        },
+        "d2": {
+          "title": "Steuernummer und USt-IdNr.",
+          "description": "Gesundheitskarte und Bescheinigung."
+        },
+        "d3": {
+          "title": "Steuererklärung",
+          "description": "Letzte Erklärung und Bilanzen."
+        },
+        "d4": {
+          "title": "Kontoauszug",
+          "description": "Geschäftskonto der letzten 6 Monate."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Wird eine Sicherheit benötigt?",
+          "answer": "Hängt vom Betrag und Alter ab."
+        },
+        "f2": {
+          "question": "Für Ausrüstung?",
+          "answer": "Ja, kann Investitionen finanzieren."
+        },
+        "f3": {
+          "question": "Maximale Laufzeit?",
+          "answer": "Bis zu 120 Monate."
+        }
+      }
+    },
+    "vat-number": {
+      "metaTitle": "Freiberuflerkredit | Prestivio",
+      "metaDescription": "Kredit für Freiberufler und kleine Unternehmen. Bis zu 100.000 €.",
+      "name": "Freiberuflerkredit",
+      "tagline": "Liquidität für Freiberufler",
+      "description": "Kredit für Freiberufler und kleine Unternehmen. Bis zu 100.000 €, Festzins.",
+      "benefits": {
+        "b1": {
+          "title": "Bis zu 100.000 €",
+          "description": "Für Investitionen oder Umlaufvermögen."
+        },
+        "b2": {
+          "title": "Reale Bewertung",
+          "description": "Wir analysieren die Rückzahlungsfähigkeit."
+        },
+        "b3": {
+          "title": "Festzins",
+          "description": "Konstante Rate."
+        },
+        "b4": {
+          "title": "Digitaler Antrag",
+          "description": "Online-Dokumentation."
+        }
+      },
+      "eligibility": {
+        "e1": {
+          "title": "USt-IdNr.",
+          "description": "Seit mindestens 12 Monaten aktiv."
+        },
+        "e2": {
+          "title": "Sektor",
+          "description": "Freiberufler, Handwerker, KMU."
+        },
+        "e3": {
+          "title": "Einkommen",
+          "description": "Nachweisbar über Bilanzen."
+        },
+        "e4": {
+          "title": "Bonität",
+          "description": "Keine schweren Verzüge."
+        }
+      },
+      "documents": {
+        "d1": {
+          "title": "Ausweis",
+          "description": "Personalausweis."
+        },
+        "d2": {
+          "title": "Steuernummer und USt-IdNr.",
+          "description": "Gesundheitskarte und Bescheinigung."
+        },
+        "d3": {
+          "title": "Steuererklärung",
+          "description": "Letzte Erklärung und Bilanzen."
+        },
+        "d4": {
+          "title": "Kontoauszug",
+          "description": "Geschäftskonto der letzten 6 Monate."
+        }
+      },
+      "faqs": {
+        "f1": {
+          "question": "Wird eine Sicherheit benötigt?",
+          "answer": "Hängt vom Betrag und Alter ab."
+        },
+        "f2": {
+          "question": "Für Ausrüstung?",
+          "answer": "Ja, kann Investitionen finanzieren."
+        },
+        "f3": {
+          "question": "Maximale Laufzeit?",
+          "answer": "Bis zu 120 Monate."
+        }
+      }
+    }
+  }
+}

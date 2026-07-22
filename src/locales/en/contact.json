@@ -1,0 +1,18 @@
+{
+  "meta": { "title": "Contact | Prestivio", "description": "Contact Prestivio for a free loan consultation." },
+  "page": {
+    "eyebrow": "Contact",
+    "title": "Talk to a Prestivio advisor",
+    "subtitle": "We are here to help you find the best credit solution.",
+    "info": {
+      "phone": "Phone",
+      "phoneValue": "+39 02 00 00 00 00",
+      "email": "Email",
+      "emailValue": "info@prestivio.it",
+      "address": "Office",
+      "addressValue": "Via Manzoni 12, 20121 Milan",
+      "hours": "Hours",
+      "hoursValue": "Mon – Fri · 9:00 AM – 6:00 PM"
+    }
+  }
+}

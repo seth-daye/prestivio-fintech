@@ -1,0 +1,58 @@
+{
+  "meta": { "title": "Prestivio — Credit Broker | Tailored Loans and Financing", "description": "Prestivio is the independent credit broker that finds the best loan for you by comparing over 30 banks." },
+  "hero": {
+    "eyebrow": "Credit Broker · Italy",
+    "title": "Your loan, tailored",
+    "subtitle": "We compare over 30 banks and financial institutions to find you the most convenient credit solution. Total transparency, zero hidden costs.",
+    "cta": "Request free consultation",
+    "secondaryCta": "Calculate your installment",
+    "trustBadge": "Registered in the OAM Register · Independent brokers since 2009"
+  },
+  "stats": {
+    "s1": { "value": "15+", "label": "Years of experience" },
+    "s2": { "value": "€2.8B", "label": "Brokered financing" },
+    "s3": { "value": "30+", "label": "Partner banks" },
+    "s4": { "value": "48h", "label": "Average response time" }
+  },
+  "services": {
+    "eyebrow": "Our loans",
+    "title": "Credit solutions for every need",
+    "subtitle": "From your first home to renovation, from personal loans to salary-backed loans.",
+    "viewDetails": "Find out more",
+    "fromRate": "from",
+    "amountLabel": "Amount",
+    "termLabel": "Duration"
+  },
+  "whyUs": {
+    "eyebrow": "Why Prestivio",
+    "title": "The broker that works for you, not for the bank",
+    "subtitle": "We are independent intermediaries: our only goal is to find you the best conditions.",
+    "features": {
+      "f1": { "title": "Total independence", "description": "We are not tied to any bank. We compare over 30 institutions to offer you only the most advantageous conditions." },
+      "f2": { "title": "Absolute transparency", "description": "No hidden costs, no surprises. We show you every figure, every condition." },
+      "f3": { "title": "Dedicated advisory", "description": "An expert advisor follows your application from start to finish." },
+      "f4": { "title": "Fast approval", "description": "Thanks to our relationships with banks, we get answers in 48 hours." }
+    }
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "Four steps toward your financing",
+    "subtitle": "A simple and transparent path, from the first consultation to disbursement.",
+    "steps": {
+      "s1": { "title": "Free consultation", "description": "You tell us about your project. We analyze your situation and identify the most suitable solutions." },
+      "s2": { "title": "Bank comparison", "description": "We query over 30 institutions to find the best conditions." },
+      "s3": { "title": "Application and documents", "description": "We help you prepare the documentation and manage the entire application." },
+      "s4": { "title": "Disbursement", "description": "Once approved, the funds arrive in your account." }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "What they say about us",
+    "title": "Our clients' trust",
+    "subtitle": "Over 40,000 families and businesses have chosen Prestivio for their financing.",
+    "items": {
+      "t1": { "quote": "They found me a rate almost two points below what my bank was offering.", "author": "Marco Bellini", "role": "Personal loan", "location": "Milan" },
+      "t2": { "quote": "Debt consolidation that halved my monthly installment. Finally I can breathe.", "author": "Giulia Ferraro", "role": "Debt consolidation", "location": "Rome" },
+      "t3": { "quote": "A mortgage for my first home at a rate I couldn't find anywhere else.", "author": "Andrea Conti", "role": "Home mortgage", "location": "Florence" }
+    }
+  }
+}

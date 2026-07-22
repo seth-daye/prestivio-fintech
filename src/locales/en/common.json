@@ -1,0 +1,135 @@
+{
+  "brand": { "name": "Prestivio", "subtitle": "Credit Broker" },
+  "nav": {
+    "home": "Home",
+    "loans": "Loans",
+    "howItWorks": "How it works",
+    "about": "About us",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "simulator": "Calculate installment",
+    "apply": "Apply for loan",
+    "cta": "Apply now"
+  },
+  "footer": {
+    "description": "Independent credit broker. We find the best loan for you by comparing over 30 banks.",
+    "loansTitle": "Loans",
+    "companyTitle": "Company",
+    "legalTitle": "Legal",
+    "privacy": "Privacy Policy",
+    "cookie": "Cookie Policy",
+    "terms": "Terms and Conditions",
+    "gdpr": "GDPR",
+    "disclaimer": "Disclaimer",
+    "copyright": "© {{year}} Prestivio S.p.A. All rights reserved.",
+    "brokerDisclaimer": "Prestivio is registered in the OAM Register of Credit Agents and Brokers."
+  },
+  "cta": {
+    "eyebrow": "Start today",
+    "title": "Ready to find your ideal loan?",
+    "subtitle": "The consultation is free and without obligation. An expert advisor will contact you within 48 hours.",
+    "button": "Request free consultation",
+    "callText": "Or call us: +39 02 00 00 00 00"
+  },
+  "contactForm": {
+    "title": "Request a free consultation",
+    "subtitle": "Fill out the form and an advisor will contact you within 48 hours.",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "John Smith",
+    "email": "Email",
+    "emailPlaceholder": "john.smith@email.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+39 333 1234567",
+    "loanType": "Loan type",
+    "loanTypePlaceholder": "Select...",
+    "other": "Other",
+    "loanAmount": "Desired amount (€)",
+    "loanAmountPlaceholder": "20000",
+    "loanDuration": "Duration (months)",
+    "loanDurationPlaceholder": "60",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your project...",
+    "submit": "Send request",
+    "submitting": "Sending...",
+    "successTitle": "Request sent!",
+    "successMessage": "Thank you for your request. One of our advisors will contact you within 48 hours.",
+    "sendAnother": "Send another request",
+    "errorMessage": "An error occurred. Please try again later.",
+    "privacyNote": "Your data will be processed in accordance with our Privacy Policy."
+  },
+  "languageSelector": { "selectLanguage": "Select language" },
+  "notFound": {
+    "code": "404",
+    "title": "Page not found",
+    "message": "The page you are looking for does not exist or has been moved.",
+    "backHome": "Back to home",
+    "contactUs": "Contact us"
+  },
+  "legal": {
+    "lastUpdated": "Last updated: {{date}}",
+    "contactPrompt": "For questions about this policy, contact us:",
+    "privacyEmail": "privacy@prestivio.it"
+  },
+  "privacy": {
+    "metaTitle": "Privacy Policy | Prestivio",
+    "metaDescription": "Information on the processing of personal data collected by Prestivio.",
+    "title": "Privacy Policy",
+    "breadcrumb": "Legal",
+    "date": "January 15, 2025",
+    "intro": "This Privacy Policy describes how Prestivio collects, uses, and protects your personal data.",
+    "sections": {
+      "s1": { "heading": "Data collected", "body": ["We collect name, email, phone, and information about the requested loan when you fill out the contact form."] },
+      "s2": { "heading": "Use of data", "body": ["Your data is used to contact you and evaluate your financing request."] },
+      "s3": { "heading": "Sharing", "body": ["Your data may be shared with partner financial institutions only for application processing purposes."] }
+    }
+  },
+  "cookie": {
+    "metaTitle": "Cookie Policy | Prestivio",
+    "metaDescription": "Information on cookies used by the Prestivio website.",
+    "title": "Cookie Policy",
+    "breadcrumb": "Legal",
+    "date": "January 15, 2025",
+    "intro": "This Cookie Policy describes the cookies used by the Prestivio website.",
+    "sections": {
+      "s1": { "heading": "Technical cookies", "body": ["We use technical cookies necessary for the website to function."] },
+      "s2": { "heading": "Analytics cookies", "body": ["We use analytics cookies to understand how you use the website and improve it."] }
+    }
+  },
+  "terms": {
+    "metaTitle": "Terms and Conditions | Prestivio",
+    "metaDescription": "Terms and conditions of use of Prestivio services.",
+    "title": "Terms and Conditions",
+    "breadcrumb": "Legal",
+    "date": "January 15, 2025",
+    "intro": "The following Terms and Conditions govern the use of Prestivio services.",
+    "sections": {
+      "s1": { "heading": "Services", "body": ["Prestivio acts as a credit intermediary between you and financial institutions."] },
+      "s2": { "heading": "Liability", "body": ["Loan approval depends exclusively on the lending institution."] }
+    }
+  },
+  "gdpr": {
+    "metaTitle": "GDPR | Prestivio",
+    "metaDescription": "GDPR notice on the processing of personal data under EU Regulation 2016/679.",
+    "title": "GDPR Notice",
+    "breadcrumb": "Legal",
+    "date": "January 15, 2025",
+    "intro": "This notice describes the data subject's rights under EU Regulation 2016/679 (GDPR).",
+    "sections": {
+      "s1": { "heading": "Legal basis", "body": ["Data processing is based on consent and the performance of a contract."] },
+      "s2": { "heading": "Data subject rights", "body": ["You have the right to access, rectify, erase, restrict, and port your data."] },
+      "s3": { "heading": "Data controller", "body": ["The data controller is Prestivio S.p.A., Via Manzoni 12, 20121 Milan."] }
+    }
+  },
+  "disclaimer": {
+    "metaTitle": "Disclaimer | Prestivio",
+    "metaDescription": "Legal disclaimer on the use of Prestivio services and information.",
+    "title": "Disclaimer",
+    "breadcrumb": "Legal",
+    "date": "January 15, 2025",
+    "intro": "The information published on the Prestivio website is for informational purposes and does not constitute a binding offer.",
+    "sections": {
+      "s1": { "heading": "Nature of service", "body": ["Prestivio acts as a credit broker. Loan disbursement depends on the bank."] },
+      "s2": { "heading": "Limitation of liability", "body": ["The conditions shown are indicative. The final one is communicated by the lending bank."] }
+    }
+  }
+}

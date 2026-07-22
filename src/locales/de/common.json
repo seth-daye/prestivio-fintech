@@ -1,0 +1,135 @@
+{
+  "brand": { "name": "Prestivio", "subtitle": "Kreditmakler" },
+  "nav": {
+    "home": "Startseite",
+    "loans": "Kredite",
+    "howItWorks": "So funktioniert's",
+    "about": "Über uns",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "simulator": "Rate berechnen",
+    "apply": "Kredit beantragen",
+    "cta": "Jetzt beantragen"
+  },
+  "footer": {
+    "description": "Unabhängiger Kreditmakler. Wir finden den besten Kredit für Sie, indem wir über 30 Banken vergleichen.",
+    "loansTitle": "Kredite",
+    "companyTitle": "Unternehmen",
+    "legalTitle": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "cookie": "Cookie-Richtlinie",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "gdpr": "DSGVO",
+    "disclaimer": "Haftungsausschluss",
+    "copyright": "© {{year}} Prestivio S.p.A. Alle Rechte vorbehalten.",
+    "brokerDisclaimer": "Prestivio ist im OAM-Register der Kreditagenten und -makler eingetragen."
+  },
+  "cta": {
+    "eyebrow": "Heute starten",
+    "title": "Bereit, Ihren idealen Kredit zu finden?",
+    "subtitle": "Die Beratung ist kostenlos und unverbindlich. Ein erfahrener Berater wird sich innerhalb von 48 Stunden bei Ihnen melden.",
+    "button": "Kostenlose Beratung anfragen",
+    "callText": "Oder rufen Sie uns an: +39 02 00 00 00 00"
+  },
+  "contactForm": {
+    "title": "Kostenlose Beratung anfragen",
+    "subtitle": "Füllen Sie das Formular aus und ein Berater wird sich innerhalb von 48 Stunden bei Ihnen melden.",
+    "fullName": "Vor- und Nachname",
+    "fullNamePlaceholder": "Max Mustermann",
+    "email": "E-Mail",
+    "emailPlaceholder": "max.mustermann@email.com",
+    "phone": "Telefon",
+    "phonePlaceholder": "+39 333 1234567",
+    "loanType": "Kreditart",
+    "loanTypePlaceholder": "Auswählen...",
+    "other": "Andere",
+    "loanAmount": "Gewünschter Betrag (€)",
+    "loanAmountPlaceholder": "20000",
+    "loanDuration": "Laufzeit (Monate)",
+    "loanDurationPlaceholder": "60",
+    "message": "Nachricht",
+    "messagePlaceholder": "Erzählen Sie uns von Ihrem Projekt...",
+    "submit": "Anfrage senden",
+    "submitting": "Wird gesendet...",
+    "successTitle": "Anfrage gesendet!",
+    "successMessage": "Vielen Dank für Ihre Anfrage. Einer unserer Berater wird sich innerhalb von 48 Stunden bei Ihnen melden.",
+    "sendAnother": "Weitere Anfrage senden",
+    "errorMessage": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut.",
+    "privacyNote": "Ihre Daten werden gemäß unserer Datenschutzerklärung verarbeitet."
+  },
+  "languageSelector": { "selectLanguage": "Sprache auswählen" },
+  "notFound": {
+    "code": "404",
+    "title": "Seite nicht gefunden",
+    "message": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zurück zur Startseite",
+    "contactUs": "Kontakt aufnehmen"
+  },
+  "legal": {
+    "lastUpdated": "Letzte Aktualisierung: {{date}}",
+    "contactPrompt": "Bei Fragen zu dieser Richtlinie kontaktieren Sie uns:",
+    "privacyEmail": "privacy@prestivio.it"
+  },
+  "privacy": {
+    "metaTitle": "Datenschutzerklärung | Prestivio",
+    "metaDescription": "Informationen zur Verarbeitung der von Prestivio erhobenen personenbezogenen Daten.",
+    "title": "Datenschutzerklärung",
+    "breadcrumb": "Rechtliches",
+    "date": "15. Januar 2025",
+    "intro": "Diese Datenschutzerklärung beschreibt, wie Prestivio Ihre personenbezogenen Daten erfasst, verwendet und schützt.",
+    "sections": {
+      "s1": { "heading": "Erfasste Daten", "body": ["Wir erfassen Name, E-Mail, Telefon und Informationen zum gewünschten Kredit, wenn Sie das Kontaktformular ausfüllen."] },
+      "s2": { "heading": "Nutzung der Daten", "body": ["Ihre Daten werden verwendet, um Sie zu kontaktieren und Ihre Finanzierungsanfrage zu prüfen."] },
+      "s3": { "heading": "Weitergabe", "body": ["Ihre Daten können ausschließlich zu Prüfungszwecken an Partnerfinanzinstitute weitergegeben werden."] }
+    }
+  },
+  "cookie": {
+    "metaTitle": "Cookie-Richtlinie | Prestivio",
+    "metaDescription": "Informationen zu den auf der Prestivio-Website verwendeten Cookies.",
+    "title": "Cookie-Richtlinie",
+    "breadcrumb": "Rechtliches",
+    "date": "15. Januar 2025",
+    "intro": "Diese Cookie-Richtlinie beschreibt die auf der Prestivio-Website verwendeten Cookies.",
+    "sections": {
+      "s1": { "heading": "Technische Cookies", "body": ["Wir verwenden technische Cookies, die für das Funktionieren der Website erforderlich sind."] },
+      "s2": { "heading": "Analyse-Cookies", "body": ["Wir verwenden Analyse-Cookies, um zu verstehen, wie Sie die Website nutzen, und sie zu verbessern."] }
+    }
+  },
+  "terms": {
+    "metaTitle": "Allgemeine Geschäftsbedingungen | Prestivio",
+    "metaDescription": "Allgemeine Geschäftsbedingungen für die Nutzung der Prestivio-Dienste.",
+    "title": "Allgemeine Geschäftsbedingungen",
+    "breadcrumb": "Rechtliches",
+    "date": "15. Januar 2025",
+    "intro": "Die folgenden Allgemeinen Geschäftsbedingungen regeln die Nutzung der Prestivio-Dienste.",
+    "sections": {
+      "s1": { "heading": "Dienstleistungen", "body": ["Prestivio agiert als Kreditvermittler zwischen Ihnen und den Finanzinstituten."] },
+      "s2": { "heading": "Haftung", "body": ["Die Genehmigung der Finanzierung hängt ausschließlich vom verleihenden Institut ab."] }
+    }
+  },
+  "gdpr": {
+    "metaTitle": "DSGVO | Prestivio",
+    "metaDescription": "DSGVO-Hinweis zur Verarbeitung personenbezogener Daten gemäß der EU-Verordnung 2016/679.",
+    "title": "DSGVO-Hinweis",
+    "breadcrumb": "Rechtliches",
+    "date": "15. Januar 2025",
+    "intro": "Dieser Hinweis beschreibt die Rechte der betroffenen Person gemäß der EU-Verordnung 2016/679 (DSGVO).",
+    "sections": {
+      "s1": { "heading": "Rechtsgrundlage", "body": ["Die Datenverarbeitung erfolgt auf Basis der Einwilligung und der Vertragserfüllung."] },
+      "s2": { "heading": "Rechte der betroffenen Person", "body": ["Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung und Übertragbarkeit Ihrer Daten."] },
+      "s3": { "heading": "Verantwortlicher", "body": ["Der Verantwortliche ist Prestivio S.p.A., Via Manzoni 12, 20121 Mailand."] }
+    }
+  },
+  "disclaimer": {
+    "metaTitle": "Haftungsausschluss | Prestivio",
+    "metaDescription": "Rechtlicher Haftungsausschluss zur Nutzung der Prestivio-Dienste und Informationen.",
+    "title": "Haftungsausschluss",
+    "breadcrumb": "Rechtliches",
+    "date": "15. Januar 2025",
+    "intro": "Die auf der Prestivio-Website veröffentlichten Informationen dienen nur zu Informationszwecken und stellen kein bindendes Angebot dar.",
+    "sections": {
+      "s1": { "heading": "Art des Dienstes", "body": ["Prestivio agiert als Kreditmakler. Die Auszahlung des Kredits hängt von der Bank ab."] },
+      "s2": { "heading": "Haftungsbeschränkung", "body": ["Die angezeigten Konditionen sind Richtwerte. Die endgültige wird von der verleihenden Bank mitgeteilt."] }
+    }
+  }
+}

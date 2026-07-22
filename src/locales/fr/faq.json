@@ -1,0 +1,17 @@
+{
+  "meta": { "title": "FAQ | Prestivio", "description": "Questions fréquentes sur les prêts et les services Prestivio." },
+  "page": { "eyebrow": "FAQ", "title": "Questions fréquentes", "subtitle": "Les réponses aux questions les plus courantes." },
+  "categories": { "general": "Général", "documentation": "Documentation", "rates": "Taux et mensualités", "surrogate": "Transfert et consolidation" },
+  "items": {
+    "g1": { "question": "Qui est Prestivio ?", "answer": "Un courtier de crédit indépendant, inscrit au Registre OAM." },
+    "g2": { "question": "Combien coûte la consultation ?", "answer": "La première consultation est gratuite et sans engagement." },
+    "g3": { "question": "Sous combien de temps ai-je une réponse ?", "answer": "Pour les prêts personnels, la réponse arrive en 48 heures." },
+    "d1": { "question": "Quels documents sont nécessaires ?", "answer": "Identité, code fiscal, documentation des revenus et IBAN." },
+    "d2": { "question": "Puis-je envoyer les documents en ligne ?", "answer": "Oui, le processus est entièrement numérique." },
+    "r1": { "question": "Le taux est-il fixe ou variable ?", "answer": "Pour les prêts personnels, il est toujours fixe. Pour les hypothèques, vous pouvez choisir." },
+    "r2": { "question": "Puis-je rembourser par anticipation ?", "answer": "Oui, le remboursement anticipé est toujours possible." },
+    "r3": { "question": "Qu'est-ce que le TAN ?", "answer": "Le Taux Annuel Nominal est le taux pur appliqué au capital." },
+    "s1": { "question": "Qu'est-ce que le transfert d'hypothèque ?", "answer": "Transférer l'hypothèque d'une banque à une autre sans frais." },
+    "s2": { "question": "Qu'est-ce que la consolidation de dettes ?", "answer": "Regrouper tous les prêts en un seul, avec une mensualité souvent plus basse." }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "meta": { "title": "Prestivio — Bróker de Crédito | Préstamos y Financiación a medida", "description": "Prestivio es el bróker de crédito independiente que encuentra el mejor préstamo para ti comparando más de 30 bancos." },
+  "hero": {
+    "eyebrow": "Bróker de Crédito · Italia",
+    "title": "Tu préstamo, a medida",
+    "subtitle": "Comparamos más de 30 bancos e instituciones financieras para encontrarte la solución de crédito más ventajosa. Transparencia total, cero costes ocultos.",
+    "cta": "Solicitar consulta gratuita",
+    "secondaryCta": "Calcula tu cuota",
+    "trustBadge": "Inscritos en el Registro OAM · Brókers independientes desde 2009"
+  },
+  "stats": {
+    "s1": { "value": "15+", "label": "Años de experiencia" },
+    "s2": { "value": "2.800 M €", "label": "Financiación intermediada" },
+    "s3": { "value": "30+", "label": "Bancos asociados" },
+    "s4": { "value": "48h", "label": "Tiempo medio de respuesta" }
+  },
+  "services": {
+    "eyebrow": "Nuestros préstamos",
+    "title": "Soluciones de crédito para cada necesidad",
+    "subtitle": "Desde la primera casa hasta la renovación, desde el préstamo personal hasta la cesión del quinto.",
+    "viewDetails": "Saber más",
+    "fromRate": "desde",
+    "amountLabel": "Importe",
+    "termLabel": "Duración"
+  },
+  "whyUs": {
+    "eyebrow": "Por qué Prestivio",
+    "title": "El bróker que trabaja para ti, no para el banco",
+    "subtitle": "Somos intermediarios independientes: nuestro único objetivo es encontrarte las mejores condiciones.",
+    "features": {
+      "f1": { "title": "Independencia total", "description": "No estamos vinculados a ningún banco. Comparamos más de 30 instituciones para ofrecerte solo las condiciones más ventajosas." },
+      "f2": { "title": "Transparencia absoluta", "description": "Sin costes ocultos, sin sorpresas. Te mostramos cada cifra, cada condición." },
+      "f3": { "title": "Asesoramiento dedicado", "description": "Un asesor experto sigue tu expediente de principio a fin." },
+      "f4": { "title": "Aprobación rápida", "description": "Gracias a nuestras relaciones con los bancos, obtenemos respuestas en 48 horas." }
+    }
+  },
+  "process": {
+    "eyebrow": "Cómo funciona",
+    "title": "Cuatro pasos hacia tu financiación",
+    "subtitle": "Un recorrido sencillo y transparente, desde la primera consulta hasta el desembolso.",
+    "steps": {
+      "s1": { "title": "Consulta gratuita", "description": "Nos cuentas tu proyecto. Analizamos tu situación e identificamos las soluciones más adecuadas." },
+      "s2": { "title": "Comparación de bancos", "description": "Consultamos más de 30 instituciones para encontrar las mejores condiciones." },
+      "s3": { "title": "Expediente y documentos", "description": "Te ayudamos a preparar la documentación y gestionamos todo el expediente." },
+      "s4": { "title": "Desembolso", "description": "Una vez aprobado, el dinero llega a tu cuenta." }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Lo que dicen de nosotros",
+    "title": "La confianza de nuestros clientes",
+    "subtitle": "Más de 40.000 familias y empresas han elegido Prestivio para su financiación.",
+    "items": {
+      "t1": { "quote": "Me encontraron un tipo casi dos puntos por debajo de lo que me ofrecía mi banco.", "author": "Marco Bellini", "role": "Préstamo personal", "location": "Milán" },
+      "t2": { "quote": "Consolidación de deudas que redujo mi cuota mensual a la mitad. Por fin respiro.", "author": "Giulia Ferraro", "role": "Consolidación de deudas", "location": "Roma" },
+      "t3": { "quote": "Hipoteca para mi primera casa a un tipo que no encontraba en ningún otro sitio.", "author": "Andrea Conti", "role": "Hipoteca casa", "location": "Florencia" }
+    }
+  }
+}

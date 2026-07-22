@@ -1,0 +1,135 @@
+{
+  "brand": { "name": "Prestivio", "subtitle": "Broker di Credito" },
+  "nav": {
+    "home": "Home",
+    "loans": "Prestiti",
+    "howItWorks": "Come funziona",
+    "about": "Chi siamo",
+    "faq": "FAQ",
+    "contact": "Contatti",
+    "simulator": "Calcola rata",
+    "apply": "Richiedi prestito",
+    "cta": "Richiedi ora"
+  },
+  "footer": {
+    "description": "Broker di credito indipendente. Troviamo il prestito migliore per te confrontando oltre 30 banche.",
+    "loansTitle": "Prestiti",
+    "companyTitle": "Azienda",
+    "legalTitle": "Legale",
+    "privacy": "Privacy Policy",
+    "cookie": "Cookie Policy",
+    "terms": "Termini e Condizioni",
+    "gdpr": "GDPR",
+    "disclaimer": "Disclaimer",
+    "copyright": "© {{year}} Prestivio S.p.A. Tutti i diritti riservati.",
+    "brokerDisclaimer": "Prestivio è iscritto all'Albo OAM degli Agenti e Mediatori Creditizi."
+  },
+  "cta": {
+    "eyebrow": "Inizia oggi",
+    "title": "Pronto a trovare il tuo prestito ideale?",
+    "subtitle": "La consulenza è gratuita e senza impegno. Un consulente esperto ti contatterà entro 48 ore.",
+    "button": "Richiedi consulenza gratuita",
+    "callText": "Oppure chiamaci: +39 02 00 00 00 00"
+  },
+  "contactForm": {
+    "title": "Richiedi una consulenza gratuita",
+    "subtitle": "Compila il modulo e un consulente ti contatterà entro 48 ore.",
+    "fullName": "Nome e cognome",
+    "fullNamePlaceholder": "Mario Rossi",
+    "email": "Email",
+    "emailPlaceholder": "mario.rossi@email.com",
+    "phone": "Telefono",
+    "phonePlaceholder": "+39 333 1234567",
+    "loanType": "Tipo di prestito",
+    "loanTypePlaceholder": "Seleziona...",
+    "other": "Altro",
+    "loanAmount": "Importo desiderato (€)",
+    "loanAmountPlaceholder": "20000",
+    "loanDuration": "Durata (mesi)",
+    "loanDurationPlaceholder": "60",
+    "message": "Messaggio",
+    "messagePlaceholder": "Raccontaci il tuo progetto...",
+    "submit": "Invia richiesta",
+    "submitting": "Invio in corso...",
+    "successTitle": "Richiesta inviata!",
+    "successMessage": "Grazie per la tua richiesta. Un nostro consulente ti contatterà entro 48 ore.",
+    "sendAnother": "Invia un'altra richiesta",
+    "errorMessage": "Si è verificato un errore. Riprova più tardi.",
+    "privacyNote": "I tuoi dati saranno trattati secondo la nostra Privacy Policy."
+  },
+  "languageSelector": { "selectLanguage": "Seleziona lingua" },
+  "notFound": {
+    "code": "404",
+    "title": "Pagina non trovata",
+    "message": "La pagina che cerchi non esiste o è stata spostata.",
+    "backHome": "Torna alla home",
+    "contactUs": "Contattaci"
+  },
+  "legal": {
+    "lastUpdated": "Ultimo aggiornamento: {{date}}",
+    "contactPrompt": "Per domande su questa policy, contattaci:",
+    "privacyEmail": "privacy@prestivio.it"
+  },
+  "privacy": {
+    "metaTitle": "Privacy Policy | Prestivio",
+    "metaDescription": "Informativa sul trattamento dei dati personali raccolti da Prestivio.",
+    "title": "Privacy Policy",
+    "breadcrumb": "Legale",
+    "date": "15 gennaio 2025",
+    "intro": "Questa Privacy Policy descrive come Prestivio raccoglie, utilizza e protegge i tuoi dati personali.",
+    "sections": {
+      "s1": { "heading": "Dati raccolti", "body": ["Raccogliamo nome, email, telefono e informazioni sul prestito richiesto quando compili il modulo di contatto."] },
+      "s2": { "heading": "Utilizzo dei dati", "body": ["I tuoi dati vengono utilizzati per contattarti e valutare la tua richiesta di finanziamento."] },
+      "s3": { "heading": "Condivisione", "body": ["I tuoi dati possono essere condivisi con istituti finanziari partner solo per finalità di istruttoria."] }
+    }
+  },
+  "cookie": {
+    "metaTitle": "Cookie Policy | Prestivio",
+    "metaDescription": "Informativa sui cookie utilizzati dal sito Prestivio.",
+    "title": "Cookie Policy",
+    "breadcrumb": "Legale",
+    "date": "15 gennaio 2025",
+    "intro": "Questa Cookie Policy descrive i cookie utilizzati dal sito Prestivio.",
+    "sections": {
+      "s1": { "heading": "Cookie tecnici", "body": ["Utilizziamo cookie tecnici necessari al funzionamento del sito."] },
+      "s2": { "heading": "Cookie analitici", "body": ["Utilizziamo cookie analitici per capire come utilizzi il sito e migliorarlo."] }
+    }
+  },
+  "terms": {
+    "metaTitle": "Termini e Condizioni | Prestivio",
+    "metaDescription": "Termini e condizioni di utilizzo dei servizi Prestivio.",
+    "title": "Termini e Condizioni",
+    "breadcrumb": "Legale",
+    "date": "15 gennaio 2025",
+    "intro": "I seguenti Termini e Condizioni regolano l'utilizzo dei servizi Prestivio.",
+    "sections": {
+      "s1": { "heading": "Servizi", "body": ["Prestivio opera come intermediario creditizio tra te e gli istituti finanziari."] },
+      "s2": { "heading": "Responsabilità", "body": ["L'approvazione del finanziamento dipende esclusivamente dall'istituto erogante."] }
+    }
+  },
+  "gdpr": {
+    "metaTitle": "GDPR | Prestivio",
+    "metaDescription": "Informativa GDPR sul trattamento dei dati personali secondo il Regolamento UE 2016/679.",
+    "title": "Informativa GDPR",
+    "breadcrumb": "Legale",
+    "date": "15 gennaio 2025",
+    "intro": "Questa informativa descrive i diritti dell'interessato secondo il Regolamento UE 2016/679 (GDPR).",
+    "sections": {
+      "s1": { "heading": "Base giuridica", "body": ["Il trattamento dei dati avviene sulla base del consenso e dell'esecuzione di un contratto."] },
+      "s2": { "heading": "Diritti dell'interessato", "body": ["Hai diritto di accesso, rettifica, cancellazione, limitazione e portabilità dei tuoi dati."] },
+      "s3": { "heading": "Titolare del trattamento", "body": ["Il titolare del trattamento è Prestivio S.p.A., Via Manzoni 12, 20121 Milano."] }
+    }
+  },
+  "disclaimer": {
+    "metaTitle": "Disclaimer | Prestivio",
+    "metaDescription": "Disclaimer legale sull'utilizzo dei servizi e delle informazioni di Prestivio.",
+    "title": "Disclaimer",
+    "breadcrumb": "Legale",
+    "date": "15 gennaio 2025",
+    "intro": "Le informazioni pubblicate sul sito Prestivio hanno carattere informativo e non costituiscono offerta vincolante.",
+    "sections": {
+      "s1": { "heading": "Natura del servizio", "body": ["Prestivio opera come mediatore creditizio. L'erogazione del finanziamento dipende dalla banca."] },
+      "s2": { "heading": "Limitazione di responsabilità", "body": ["Le condizioni mostrate sono indicative. Quella definitiva è comunicata dalla banca erogante."] }
+    }
+  }
+}

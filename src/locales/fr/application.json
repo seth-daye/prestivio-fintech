@@ -1,0 +1,155 @@
+{
+  "meta": { "title": "Demander un Prêt | Prestivio", "description": "Remplissez la demande de prêt en ligne avec Prestivio." },
+  "page": { "eyebrow": "Demander un prêt", "title": "Demandez votre prêt", "subtitle": "Remplissez le formulaire en quelques minutes. Un conseiller vous contactera sous 48 heures." },
+  "progress": {
+    "step": "Étape {{current}} sur {{total}}",
+    "personal": "Données personnelles",
+    "address": "Résidence",
+    "employment": "Emploi",
+    "loan": "Prêt",
+    "documents": "Documents",
+    "consent": "Consentement",
+    "summary": "Récapitulatif"
+  },
+  "personal": {
+    "title": "Vos données personnelles",
+    "subtitle": "Saisissez vos informations personnelles.",
+    "firstName": "Prénom",
+    "firstNamePlaceholder": "Jean",
+    "lastName": "Nom",
+    "lastNamePlaceholder": "Dupont",
+    "dateOfBirth": "Date de naissance",
+    "taxCode": "Code fiscal",
+    "taxCodePlaceholder": "RSSMRA80A01H501Z",
+    "email": "E-mail",
+    "emailPlaceholder": "jean.dupont@email.com",
+    "mobilePhone": "Téléphone portable",
+    "mobilePhonePlaceholder": "+39 333 1234567"
+  },
+  "address": {
+    "title": "Votre adresse",
+    "subtitle": "Où résidez-vous actuellement.",
+    "street": "Rue et numéro",
+    "streetPlaceholder": "12 Rue de Rome",
+    "city": "Ville",
+    "cityPlaceholder": "Milan",
+    "province": "Province (2 lettres)",
+    "provincePlaceholder": "MI",
+    "postalCode": "Code postal",
+    "postalCodePlaceholder": "20121",
+    "region": "Région",
+    "regionPlaceholder": "Lombardie"
+  },
+  "employment": {
+    "title": "Votre situation professionnelle",
+    "subtitle": "Informations sur vos revenus.",
+    "employmentStatus": "Statut professionnel",
+    "employmentStatusPlaceholder": "Sélectionner...",
+    "employer": "Employeur / Entreprise",
+    "employerPlaceholder": "Nom de l'entreprise",
+    "monthlyNetIncome": "Revenu net mensuel (€)",
+    "monthlyNetIncomePlaceholder": "2500",
+    "employmentStartDate": "Date de début d'emploi",
+    "contractType": "Type de contrat"
+  },
+  "employmentStatuses": {
+    "employed": "Salarié",
+    "selfEmployed": "Indépendant",
+    "pensioner": "Retraité",
+    "unemployed": "Sans emploi"
+  },
+  "contractTypes": {
+    "permanent": "CDI",
+    "fixedTerm": "CDD",
+    "temporary": "Intérim",
+    "freelance": "Profession libérale",
+    "pension": "Retraite",
+    "other": "Autre"
+  },
+  "loan": {
+    "title": "Détails du prêt",
+    "subtitle": "Combien souhaitez-vous emprunter ?",
+    "loanType": "Type de prêt",
+    "loanTypePlaceholder": "Sélectionner...",
+    "requestedAmount": "Montant demandé (€)",
+    "requestedAmountPlaceholder": "20000",
+    "loanDuration": "Durée (mois)",
+    "loanDurationPlaceholder": "60",
+    "purpose": "Objet du prêt",
+    "purposePlaceholder": "Décrivez à quoi sert le prêt..."
+  },
+  "documents": {
+    "title": "Téléchargez vos documents",
+    "subtitle": "Joignez les documents nécessaires au traitement du dossier.",
+    "identityCard": "Pièce d'identité",
+    "taxCode": "Code fiscal",
+    "payslips": "Fiches de paie",
+    "bankStatement": "Relevé de compte",
+    "otherDocuments": "Autres documents",
+    "optional": "facultatif",
+    "dragDrop": "Glissez ou cliquez pour télécharger",
+    "maxSize": "Maximum 10 Mo",
+    "acceptedFormats": "PDF, JPG, PNG"
+  },
+  "consent": {
+    "title": "Consentement au traitement des données",
+    "subtitle": "Lisez et acceptez les avis suivants.",
+    "gdpr": "J'ai lu et j'accepte l'avis RGPD sur le traitement des données personnelles.",
+    "privacy": "J'ai lu et j'accepte la Politique de confidentialité.",
+    "marketing": "J'accepte le traitement de mes données à des fins de marketing.",
+    "marketingOptional": "(facultatif)",
+    "viewPrivacy": "Lire la Politique de confidentialité"
+  },
+  "summary": {
+    "title": "Récapitulatif de la demande",
+    "subtitle": "Vérifiez vos données avant de soumettre.",
+    "personalSection": "Données personnelles",
+    "addressSection": "Adresse",
+    "employmentSection": "Emploi",
+    "loanSection": "Prêt",
+    "documentsSection": "Documents",
+    "consentSection": "Consentement",
+    "noDocuments": "Aucun document téléchargé",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "success": {
+    "title": "Demande envoyée avec succès !",
+    "subtitle": "Merci pour votre demande. L'un de nos conseillers vous contactera sous 48 heures.",
+    "referenceLabel": "Numéro de référence",
+    "whatNext": "Que se passe-t-il ensuite ?",
+    "next1": "Un conseillers analysera votre demande sous 48 heures.",
+    "next2": "Nous vous contacterons pour vous proposer les meilleures solutions disponibles.",
+    "next3": "Une fois l'offre choisie, les fonds arrivent sur votre compte.",
+    "backHome": "Retour à l'accueil",
+    "newApplication": "Nouvelle demande"
+  },
+  "buttons": {
+    "back": "Retour",
+    "next": "Suivant",
+    "submit": "Envoyer la demande"
+  },
+  "errors": {
+    "required": "Champ obligatoire",
+    "invalidEmail": "E-mail invalide",
+    "invalidPhone": "Numéro de téléphone invalide",
+    "invalidTaxCode": "Code fiscal invalide",
+    "invalidProvince": "Saisissez 2 lettres",
+    "invalidPostalCode": "Code postal invalide (5 chiffres)",
+    "invalidDate": "Date invalide",
+    "underage": "Vous devez avoir au moins 18 ans",
+    "selectOption": "Sélectionnez une option",
+    "invalidIncome": "Saisissez un montant valide",
+    "invalidAmount": "Montant minimum 1 000 €",
+    "invalidDuration": "Durée entre 12 et 120 mois",
+    "gdprRequired": "Vous devez accepter l'avis RGPD",
+    "privacyRequired": "Vous devez accepter la Politique de confidentialité",
+    "fileTooLarge": "Fichier trop volumineux (max 10 Mo)",
+    "invalidFileType": "Format non pris en charge",
+    "uploadFailed": "Échec du téléchargement. Réessayez.",
+    "submitFailed": "Échec de l'envoi. Veuillez réessayer plus tard."
+  },
+  "validation": {
+    "checkFields": "Vérifiez les champs surlignés."
+  }
+}
